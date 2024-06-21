@@ -1,6 +1,6 @@
-Id_Plan;Nombre;Precio
-1;Familiar_Mes; $10.00 
-2;Estudiante_Mes; $5.50 
-3;Mensual; $7.50 
-4;Trimestral; $18.00 
-5;Anual; $65.00 
+Id_Plan,Nombre,Precio
+1,Familiar_Mes, $10.00 
+2,Estudiante_Mes, $5.50 
+3,Mensual, $7.50 
+4,Trimestral, $18.00 
+5,Anual, $65.00 
