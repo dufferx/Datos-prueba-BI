@@ -1,0 +1,2288 @@
+Id_Artista;Id_Pais;Nombre;Apellido;Fecha de nacimiento
+2;27;10,000 Maniacs;;3/7/1962
+3;39;10CC;;13/1/1990
+4;49;1910 Fruitgum Co;;20/9/1999
+5;10;2 In A Room;;3/10/1970
+6;10;2 Unlimited;;14/7/1993
+7;4;20 Fingers;;19/5/1964
+8;51;2Pac;;1/6/1960
+9;60;2Pac & Dr Dre;;12/12/1962
+10;17;2Pac & Elton John;;27/12/1972
+11;11;3OH!3;;18/12/1982
+12;74;3OH!3 & Ke$ha;;26/1/1977
+13;66;3T;;13/9/1990
+14;73;4 The Cause;;26/4/1982
+15;17;4pm;;19/8/1976
+16;74;50 Cent;;19/9/1987
+17;68;50 Cent & Justin Timberlake;;10/11/1961
+18;67;50 Cent & Olivia;;7/3/1968
+19;3;5000 Volts;;9/8/1982
+20;70;702;;15/6/1979
+21;39;98 Degrees;;23/11/1977
+22;35;A Flock of Seagulls;;26/5/1960
+23;1;A R Rahman & The Pussycat Dolls;;1/4/1983
+24;9;A Taste of Honey;;11/8/1960
+25;27;Aaliyah;;4/12/1960
+26;37;Aaron Neville;;26/1/1973
+27;2;Abba;;7/7/1960
+28;24;ABC;;25/9/1979
+29;56;AC/DC;;20/9/1979
+30;25;Ace;;9/8/1988
+31;62;Ace of Base;;11/9/1961
+32;27;Adam & The Ants;;14/6/1983
+33;29;Adam Ant;;15/12/2000
+34;66;Adam Clayton & Larry Mullen;;7/11/1985
+35;6;Adam Lambert;;10/1/1964
+36;15;Adamski;;25/8/1965
+37;57;Adele;;26/2/2000
+38;22;Adina Howard;;28/5/1970
+39;67;Aerosmith;;2/5/1997
+40;55;Afroman;;13/12/1989
+41;49;A-Ha;;20/12/1984
+42;26;Air Supply;;2/12/1976
+43;5;Akon;;10/9/1986
+44;35;Akon & Snoop Dogg;;24/9/1992
+45;37;Al Dexter & his Troopers;;8/9/1974
+46;30;Al Green;;2/5/1975
+47;60;Al Hibbler;;17/6/1960
+48;47;Al Hirt;;1/2/2000
+49;44;Al Jolson;;8/6/1993
+50;60;Al Martino;;7/3/1995
+51;23;Al Stewart;;21/3/1962
+52;9;Al Trace;;13/6/1987
+53;11;Alain Barriere & Noelle Cordier;;17/11/1974
+54;9;Alan O'Day;;11/9/1980
+55;7;Alanis Morissette;;20/3/1985
+56;68;Alannah Myles;;26/4/1971
+57;43;Albert Hammond;;19/4/1978
+58;35;Alcazar;;20/9/1994
+59;12;Alex Clare;;1/9/1983
+60;5;Alexandra Stan;;17/10/1963
+61;77;Alice Cooper;;16/2/1971
+62;70;Alicia Bridges;;6/6/1995
+63;27;Alicia Keys;;19/1/1962
+64;46;Alien Ant Farm;;6/6/1980
+65;6;Alizee;;11/12/1962
+66;40;All Saints;;14/9/1964
+67;60;All-4-One;;3/1/1997
+68;72;All-American Rejects;;8/7/1987
+69;47;Allan Sherman;;24/12/1983
+70;16;Alphaville;;3/3/1983
+71;19;Alveno Rey;;17/2/1984
+72;31;Alvin Stardust;;11/6/1995
+73;28;America;;3/3/1981
+74;59;American Breed;;22/1/1997
+75;44;American Quartet;;18/8/1965
+76;72;Amerie;;14/3/1976
+77;60;Amii Stewart;;1/8/1988
+78;61;Amy Grant;;20/5/1992
+79;17;Amy Macdonald;;14/9/1987
+80;65;Amy Winehouse;;15/9/1962
+81;23;Anastacia;;12/4/1988
+82;7;Andrea True Connection;;4/6/1998
+83;53;Andru Donalds;;15/9/1977
+84;56;Andy Gibb;;20/6/1978
+85;17;Andy Kim;;8/6/1993
+86;34;Andy Williams;;18/5/1967
+87;53;Aneka;;16/5/1966
+88;70;Animotion;;26/1/1971
+89;46;Anita Baker;;5/2/1990
+90;50;Anita O'Day;;12/5/1997
+91;62;Anita Ward;;13/11/1971
+92;52;Ann Lee;;12/10/1960
+93;6;Anne Murray;;27/4/1982
+94;9;Anne Shelton;;27/8/1983
+95;1;Annie Lennox;;5/11/1971
+96;38;Anton Karas;;20/9/1970
+97;56;Aphrodite's Child;;3/6/1977
+98;12;Aqua;;23/6/1998
+99;51;Arcadia;;1/10/1989
+100;37;Archie Bell & The Drells;;5/12/1974
+101;40;Archie Bleyer;;2/9/1996
+102;24;Archies;;15/4/1966
+103;66;Arctic Monkeys;;24/7/1989
+104;15;Aretha Franklin;;27/12/1966
+105;35;Aretha Franklin & George Michael;;17/3/1963
+106;2;Argent;;4/6/1996
+107;21;Arrested Development;;3/4/1965
+108;57;Art Garfunkel;;24/6/1979
+109;11;Art Lund;;13/6/1968
+110;43;Art Mooney;;8/10/1996
+111;4;Art Tatum;;16/6/1977
+112;47;Arthur Conley;;7/3/1999
+113;20;Arthur Gibbs & his Gang;;15/1/1994
+114;38;Arthur Godfrey;;5/3/2000
+115;19;Artie Shaw;;5/12/1966
+116;10;Ashanti;;9/1/1975
+117;8;Ashford & Simpson;;28/8/1960
+118;62;Ashlee Simpson;;12/9/1981
+119;36;Asia;;10/3/1995
+120;72;Association;;19/7/1987
+121;75;ATB;;2/7/1965
+122;36;ATC;;13/11/1969
+123;14;Atlantic Starr;;20/5/1975
+124;3;Atomic Kitten;;6/11/1968
+125;34;Aventura;;24/8/2000
+126;25;Average White Band;;19/3/1960
+127;23;Avicii;;26/12/1998
+128;22;Avril Lavigne;;24/8/2000
+129;18;Az Yet;;18/2/1995
+130;7;B J Thomas;;1/9/1960
+131;32;B*Witched;;1/9/1982
+132;29;B2K & P Diddy;;6/6/1968
+133;80;Baby Bash;;16/8/1988
+134;48;Babyface;;16/12/1989
+135;75;Babylon Zoo;;24/5/1996
+136;36;Baccara;;10/7/1994
+137;24;Bachman-Turner Overdrive;;9/9/1992
+138;31;Bad English;;12/4/1974
+139;20;Badfinger;;6/5/1990
+140;53;Baha Men;;1/1/1979
+141;4;Baltimora;;8/9/1972
+142;44;Bananarama;;27/9/1978
+143;20;Band Aid;;27/8/1979
+144;53;Band Aid 20;;26/7/1987
+145;1;Barbara George;;18/2/1985
+146;39;Barbra Streisand;;7/2/1985
+147;47;Barbra Streisand & Barry Gibb;;3/3/1963
+148;54;Barbra Streisand & Bryan Adams;;2/6/1974
+149;3;Barbra Streisand & Donna Summer;;5/3/1997
+150;40;Barbra Streisand & Neil Diamond;;6/7/1984
+151;36;Barenaked Ladies;;27/11/1969
+152;4;Barry Manilow;;8/10/1978
+153;15;Barry McGuire;;25/5/1969
+154;11;Barry Ryan;;6/3/1986
+155;58;Barry White;;7/10/1977
+156;80;Baz Luhrmann;;11/10/1970
+157;71;BB King;;1/2/1991
+158;45;Beats International;;16/10/1996
+159;77;Beck;;20/10/1980
+160;15;Bee Gees;;16/8/1974
+161;67;Belinda Carlisle;;16/1/1965
+162;33;Bell Biv Devoe;;6/12/1970
+163;12;Bellamy Brothers;;28/2/1980
+164;63;Bellini;;7/9/1985
+165;46;Ben Bernie;;16/10/1980
+166;17;Ben E King;;2/8/1963
+167;71;Ben Selvin;;28/8/1993
+168;19;Benny Goodman;;18/5/1981
+169;1;Benny Mardones;;26/12/1998
+170;35;Berlin;;10/10/1969
+171;79;Bert Kaempfert & his Orchestra;;15/12/1968
+172;35;Bertolt Brecht;;1/11/1973
+173;31;Bessie Smith;;12/4/1967
+174;59;Bette Midler;;22/1/1987
+175;9;Betty Hutton;;12/6/1965
+176;40;Beyonce;;14/2/2000
+177;2;Beyonce & Jay-Z;;16/2/1988
+178;60;Beyonce & Shakira;;21/3/1996
+179;39;Big Bopper;;2/1/1993
+180;14;Big Brother & the Holding Company;;5/9/1960
+181;19;Big Brovaz;;22/2/1987
+182;36;Big Mountain;;1/11/1970
+183;64;Bill Conti;;25/4/1981
+184;29;Bill Doggett;;1/5/1984
+185;38;Bill Haley & his Comets;;18/12/1972
+186;29;Bill Hayes;;18/5/1975
+187;64;Bill Justis;;3/1/2000
+188;51;Bill Medley & Jennifer Warnes;;17/1/1961
+189;42;Bill Monroe;;3/10/1965
+190;49;Bill Withers;;5/5/1997
+191;27;Billie Holiday;;23/11/1962
+192;45;Billie Myers;;15/4/1996
+193;7;Billy Cotton & his Band;;7/4/1984
+194;37;Billy Eckstine;;10/9/1998
+195;11;Billy Idol;;2/12/1984
+196;57;Billy J Kramer & The Dakotas;;28/1/1992
+197;30;Billy Joel;;10/3/1979
+198;26;Billy Jones;;24/3/1979
+199;56;Billy Ocean;;20/5/1999
+200;54;Billy Paul;;21/11/1980
+201;64;Billy Preston;;28/12/1990
+202;15;Billy Preston & Syreeta;;26/9/1970
+203;73;Billy Ray Cyrus;;23/9/1995
+204;73;Billy Swan;;18/7/1985
+205;7;Billy Vaughn;;16/6/1983
+206;23;Billy Vera;;15/11/1961
+207;28;Billy Ward & The Dominoes;;18/10/1982
+208;79;Billy Whitlock;;11/12/1991
+209;57;Bimbo Jet;;23/12/1980
+210;49;Bing Crosby;;12/1/1972
+211;21;Bing Crosby & Carmen Cavallaro;;22/12/1999
+212;18;Bing Crosby & Connee Boswell;;16/3/1981
+213;69;Bing Crosby & Grace Kelly;;2/6/1991
+214;21;Bing Crosby & Les Paul;;2/10/1996
+215;56;Bing Crosby & The Andrews Sisters;;2/8/1964
+216;30;Bing Crosby & The Jesters;;23/1/1962
+217;15;Bing Crosby & The Mills Brothers;;26/8/1968
+218;42;Bing Crosby & Trudy Erwin;;2/7/1973
+219;31;Bix Beiderbecke;;10/9/1980
+220;16;Bjork;;24/8/1991
+221;74;Black;;18/10/1974
+222;69;Black Box;;8/10/1966
+223;6;Black Sabbath;;12/10/1990
+224;35;BLACKstreet & Dr Dre;;26/12/1961
+225;28;BLACKstreet & Mya;;18/1/1991
+226;63;Blessid Union of Souls;;9/8/1966
+227;68;Blind Lemon Jefferson;;4/1/1990
+228;24;Blind Melon;;28/11/1989
+229;59;Blind Willie Johnson;;11/6/1972
+230;10;blink-182;;2/6/1994
+231;28;Blondie;;18/8/1960
+232;52;Blood Sweat & Tears;;13/12/1988
+233;11;Bloodhound Gang;;4/8/1964
+234;76;Blu Cantrell;;18/2/1996
+235;24;Blue & Elton John;;1/12/1961
+236;69;Blue Barron & Orchestra;;22/8/1993
+237;65;Blue Cheer;;19/10/1960
+238;36;Blue Diamonds;;7/11/1960
+239;25;Blue Magic;;27/12/1968
+240;38;Blue Swede;;6/11/1992
+241;11;Blues Traveler;;25/8/1960
+242;64;Blur;;25/4/1993
+243;45;Bo Diddley;;2/6/1966
+244;56;Bo Donaldson & the Heywoods;;3/9/1969
+245;64;BoB & Bruno Mars;;27/4/1965
+246;53;BoB & Hayley Williams;;9/1/1992
+247;7;Bob Azzam;;27/2/1962
+248;64;Bob Crosby & his Orchestra;;5/7/1975
+249;68;Bob Dylan;;28/1/1974
+250;51;Bob Hope & Shirley Ross;;8/2/1967
+251;2;Bob Luman;;16/10/1996
+252;56;Bob Marley;;15/5/1962
+253;54;Bob Moore;;15/12/1982
+254;74;Bob Seger & The Silver Bullet Band;;24/2/1996
+255;46;Bob Sinclar, Goleo VI & Gary 'Nesta' Pine;;9/10/1994
+256;58;Bob Wills & his Texas Playboys;;15/8/1979
+257;37;Bobbie Gentry;;11/1/1994
+258;62;Bobby Bloom;;21/6/1988
+259;24;Bobby 'Boris' Pickett & The Crypt-Kickers;;11/4/2000
+260;75;Bobby Brown;;10/7/1976
+261;33;Bobby Darin;;27/3/1991
+262;56;Bobby Day;;5/5/1992
+263;7;Bobby Freeman;;13/2/1978
+264;39;Bobby Fuller Four;;23/11/1965
+265;43;Bobby Goldsboro;;2/11/1992
+266;19;Bobby Hebb;;2/12/1980
+267;73;Bobby Helms;;11/11/1966
+268;48;Bobby Lewis;;28/11/1993
+269;75;Bobby McFerrin;;20/12/1984
+270;59;Bobby Rydell;;11/8/1972
+271;25;Bobby Sherman;;17/1/1960
+272;25;Bobby Vee;;24/2/1969
+273;63;Bobby Vinton;;20/1/1960
+274;14;Bomfunk MCs;;18/4/1965
+275;27;Bon Jovi;;24/7/1994
+276;46;Bone Thugs-n-Harmony;;25/2/1971
+277;14;Boney M;;8/5/1988
+278;56;Bonnie Raitt;;15/1/1994
+279;72;Bonnie Tyler;;18/4/1986
+280;72;Booker T & the MGs;;15/6/1967
+281;34;Boris Gardiner;;3/4/2000
+282;38;Boston;;1/11/1979
+283;10;Bowling For Soup;;15/10/1978
+284;16;Boy George;;17/6/1979
+285;24;Boy Meets Girl;;6/7/1983
+286;3;Boystown Gang;;15/11/1992
+287;4;Boyz II Men;;28/1/1964
+288;40;Boyzone;;21/5/1960
+289;59;Boz Scaggs;;8/11/1992
+290;10;Brandy;;13/5/1977
+291;10;Brandy & Monica;;4/1/1986
+292;19;Bread;;15/3/1985
+293;75;Breathe;;25/5/1998
+294;6;Brenda Lee;;14/1/1978
+295;29;Brenda Russell;;5/9/1966
+296;72;Brenton Wood;;27/8/1996
+297;46;Brian Hyland;;13/6/1968
+298;56;Brian McFadden & Delta Goodrem;;7/5/1961
+299;61;Brian McKnight;;10/12/1966
+300;28;Britney Spears;;11/10/1978
+301;61;Britney Spears & Madonna;;25/7/2000
+302;32;Bronski Beat;;6/10/1970
+303;41;Brook Benton;;17/1/1997
+304;71;Bros;;11/6/1972
+305;47;Brotherhood of Man;;7/10/1969
+306;60;Brothers Four;;5/4/1976
+307;22;Brothers Johnson;;9/3/1993
+308;18;Brownstone;;20/4/1971
+309;73;Brownsville Station;;9/11/1966
+310;62;Bruce Channel;;16/11/1991
+311;49;Bruce Hornsby & The Range;;13/8/1977
+312;51;Bruce Springsteen;;12/8/1965
+313;7;Bruno Mars;;17/8/1965
+314;26;Bryan Adams;;28/6/1963
+315;1;Bryan Adams & Melanie C;;22/2/1999
+316;12;Bryan Adams, Rod Stewart & Sting;;5/7/2000
+317;22;Bucketheads;;10/2/1986
+318;75;Bucks Fizz;;28/12/2000
+319;25;Buddy Clark;;17/7/1964
+320;67;Buddy Holly;;9/4/1998
+321;9;Buddy Knox;;7/4/1979
+322;8;Buffalo Springfield;;17/10/1966
+323;71;Buggles;;3/6/1980
+324;9;Bunny Berigan;;17/11/1984
+325;43;Burl Ives;;22/8/1961
+326;69;Busta Rhymes;;25/12/1995
+327;46;Busta Rhymes & Mariah Carey;;5/12/1981
+328;76;Buzz Clifford;;7/10/1965
+329;5;C W McCall;;3/1/1978
+330;26;C&C Music Factory;;2/5/1993
+331;27;Cab Calloway & his Cotton Club Orchestra;;11/3/1991
+332;16;Calloway;;5/5/1985
+333;11;Calvin Harris;;2/10/1998
+334;33;Cameo;;15/2/1980
+335;31;Candi Staton;;4/7/1998
+336;13;Canned Heat;;20/7/1960
+337;75;Cappella;;3/7/1960
+338;6;Captain & Tennille;;14/6/1964
+339;5;Captain Hollywood Project;;7/2/1976
+340;55;Carl Douglas;;27/2/1997
+341;58;Carl Perkins;;23/6/1965
+342;41;Carly Rae Jepsen;;25/1/1977
+343;10;Carly Simon;;10/4/1995
+344;3;Carol Douglas;;21/9/1961
+345;55;Carole King;;20/3/1995
+346;41;Carrapicho & Chilli;;9/6/1971
+347;67;Carrie Underwood;;18/10/1987
+348;11;Cascada;;2/4/1962
+349;32;Cascades;;17/12/1976
+350;61;Cassie;;6/9/1970
+351;12;Casuals;;19/7/1972
+352;76;Cat Stevens;;17/3/1968
+353;52;Cathy Dennis;;19/7/1986
+354;52;Ce Ce Peniston;;26/6/1974
+355;5;Cee-Lo Green;;26/8/1966
+356;4;Celine Dion;;25/3/1967
+357;4;Celine Dion & Bee Gees;;19/2/1966
+358;15;Celine Dion & Peabo Bryson;;21/3/2000
+359;2;Celine Dion & R Kelly;;5/3/1985
+360;45;Chad Kroeger;;10/8/1999
+361;32;Chairman of The Board;;6/6/1972
+362;78;Chaka Khan;;24/3/1970
+363;61;Champaign;;9/10/1983
+364;76;Champs;;2/3/1994
+365;43;Chantays;;5/2/1991
+366;39;Charlene;;3/6/1961
+367;3;Charles & Eddie;;16/12/1961
+368;37;Charles Aznavour;;1/12/1977
+369;15;Charley Patton;;20/1/1975
+370;39;Charlie Daniels Band;;12/8/1961
+371;19;Charlie Gracie;;8/10/1999
+372;44;Charlie Rich;;24/3/2000
+373;36;Chauncy Olcott;;16/7/1964
+374;78;Cheap Trick;;16/9/1989
+375;29;Cher;;18/11/1984
+376;74;Cheryl Lynn;;17/8/1996
+377;4;Chesney Hawkes;;3/9/1970
+378;28;Chic;;13/1/1967
+379;35;Chicago;;14/2/1992
+380;46;Chicory Tip;;23/11/1992
+381;59;Chingy;;4/6/1988
+382;40;Chords;;18/9/1970
+383;45;Chris Andrews;;6/10/1972
+384;52;Chris Barber's Jazz Band;;1/5/1968
+385;10;Chris Brown;;28/3/1972
+386;29;Chris Brown & Juelz Santana;;2/10/1993
+387;18;Chris Brown & T-Pain;;7/9/1988
+388;59;Chris Cornell;;28/12/1964
+389;49;Chris de Burgh;;27/3/1970
+390;5;Chris Isaak;;18/11/1996
+391;64;Chris Montez;;8/3/1996
+392;59;Chris Norman & Suzi Quatro;;11/6/1964
+393;50;Chris Rea;;24/8/1994
+394;2;Christie;;16/9/1984
+395;65;Christina Aguilera;;2/7/1981
+396;41;Christina Aguilera & Redman;;19/3/1966
+397;30;Christina Aguilera, Lil' Kim, Mya & Pink;;5/7/1979
+398;22;Christina Milian;;5/12/1988
+399;78;Christina Perri;;14/8/1994
+400;26;Christophe;;5/6/1985
+401;20;Christopher Cross;;24/4/1978
+402;1;Chubby Checker;;7/10/1978
+403;71;Chuck Berry;;9/3/1993
+404;10;Chumbawamba;;9/4/1976
+405;79;Ciara & Ludacris;;19/7/1976
+406;22;Ciara & Missy 'Misdemeanor' Elliot;;5/6/1968
+407;52;Ciara & Petey Pablo;;13/7/1969
+408;25;Cilla Black;;1/11/1976
+409;46;City High;;22/4/1979
+410;2;Clarence Carter;;10/6/1991
+411;52;Clarence 'Frogman' Henry;;11/11/1993
+412;33;Claude King;;17/11/1980
+413;6;Cliff Edwards (Ukelele Ike);;25/3/1990
+414;28;Cliff Richard;;27/10/1968
+415;76;Cliff Richard & The Young Ones;;12/10/1968
+416;51;Climax;;23/11/1970
+417;6;Climie Fisher;;20/7/1964
+418;15;Clint Holmes;;5/9/1991
+419;16;Clout;;1/2/1976
+420;44;Club Nouveau;;28/10/1988
+421;1;Cobra Starship;;20/4/1985
+422;41;Colbie Caillat;;4/6/1961
+423;49;Coldplay;;20/2/1979
+424;19;Cole Porter;;23/10/1979
+425;49;Coleman Hawkins;;27/6/1989
+426;18;Color Me Badd;;21/10/1977
+427;60;Connells;;12/2/1975
+428;16;Connie Francis;;19/1/1989
+429;61;Conny Froboess;;20/5/1961
+430;50;Contours;;26/1/1975
+431;64;Conway Twitty;;17/4/2000
+432;18;Coolio;;3/6/1988
+433;2;Coolio & 40 Thevz;;22/6/1983
+434;67;Corinne Bailey Rae;;21/1/1976
+435;59;Cornelius Brothers & Sister Rose;;9/9/2000
+436;20;Cornershop;;25/7/1981
+437;23;Corona;;26/12/1998
+438;13;Count Basie;;25/10/1978
+439;77;Counting Crows;;6/12/1969
+440;53;Cover Girls;;9/2/1992
+441;38;Craig David;;9/12/1994
+442;52;Craig Douglas;;25/8/1981
+443;57;Crash Test Dummies;;13/2/1984
+444;28;Crazy Frog;;25/12/1963
+445;71;Crazy Town;;11/10/1991
+446;73;Crazy World of Arthur Brown;;19/5/1975
+447;42;Cream;;21/11/1962
+448;54;Creed;;21/3/1980
+449;27;Creedence Clearwater Revival;;10/7/1983
+450;40;Crispian St Peters;;9/1/1981
+451;42;Crosby, Stills, Nash & Young;;10/10/1982
+452;34;Crowded House;;27/4/2000
+453;40;Crystal Gayle;;19/3/1970
+454;74;Crystal Waters;;21/5/1960
+455;50;Culture Beat;;1/9/1981
+456;3;Culture Club;;24/4/1999
+457;76;Curtis Mayfield;;10/9/1971
+458;38;Cut 'N' Move;;5/2/1966
+459;67;Cutting Crew;;6/3/1981
+460;29;Cyndi Lauper;;14/4/2000
+461;24;Cyrkle;;23/12/1967
+462;79;D:Ream;;4/9/1997
+463;36;D12;;15/2/1988
+464;17;Daddy Yankee;;22/7/1985
+465;50;Daft Punk;;16/12/1961
+466;17;Daft Punk & Pharrell Williams;;8/6/1997
+467;24;Dale & Grace;;4/7/1965
+468;60;Damn Yankees;;9/10/1993
+469;41;Dan Hartman;;11/4/1994
+470;10;Dan Hill;;28/11/1975
+471;70;Dana;;24/1/1999
+472;61;Daniel Bedingfield;;7/2/1960
+473;73;Daniel Boone;;11/11/1975
+474;77;Daniel Powter;;16/6/1972
+475;71;Danny & The Juniors;;22/2/1996
+476;43;Danny Mirror;;21/11/1982
+477;48;Dante Thomas;;13/4/1968
+478;53;Danyel Gerard;;25/7/1974
+479;56;Dario G;;18/10/1960
+480;15;Darude;;11/2/1972
+481;22;Daughtry;;6/2/1978
+482;35;Dave & Ansil Collins;;17/7/1982
+483;9;Dave Brubeck;;23/3/1987
+484;40;Dave Clark Five;;12/12/1970
+485;72;Dave Dee, Dozy, Beaky, Mick & Tich;;18/12/1975
+486;40;Dave Edmunds;;20/7/1989
+487;18;David A Stewart;;9/9/1962
+488;74;David A Stewart & Barbara Gaskin;;11/6/1962
+489;73;David Bowie;;25/1/1981
+490;65;David Bowie & Mick Jagger;;18/7/1978
+491;10;David Bowie & The Pat Metheny Group;;2/3/1974
+492;52;David Cassidy;;9/2/1971
+493;45;David Dundas;;19/11/1984
+494;60;David Essex;;7/6/1994
+495;11;David Guetta & Akon;;11/9/1982
+496;40;David Guetta & Chris Willis;;15/4/1979
+497;4;David Guetta & Kelly Rowland;;15/12/1962
+498;40;David Guetta & Nicki Minaj;;1/9/1981
+499;55;David Guetta & Sia;;19/5/1992
+500;76;David Guetta & Usher;;18/10/1985
+501;74;David Guetta, Flo-Rida & Nicki Minaj;;13/3/1992
+502;49;David Rose;;6/3/1983
+503;36;David Seville & The Chipmunks;;27/2/1977
+504;57;David Soul;;5/4/1974
+505;13;David Whitfield & Mantovani;;20/8/1998
+506;68;Dawn;;10/12/1996
+507;10;Dead Or Alive;;5/1/1981
+508;25;Dean Martin;;6/6/1988
+509;54;DeBarge;;9/7/1973
+510;63;Debbie Boone;;16/7/1994
+511;40;Debbie Gibson;;15/3/1995
+512;61;Debbie Reynolds;;15/2/1973
+513;33;Debbie Reynolds & Carleton Carpenter;;4/4/1976
+514;65;Debelah Morgan;;16/8/1989
+515;65;Dee Clark;;25/4/1975
+516;22;Dee Dee Sharp;;18/6/1968
+517;41;Deee-Lite;;22/6/1962
+518;50;Deep Blue Something;;5/10/1966
+519;7;Deep Purple;;8/1/1964
+520;64;Def Leppard;;20/12/1995
+521;47;Del Shannon;;23/9/1990
+522;72;Demis Roussos;;8/4/1973
+523;33;Deniece Williams;;21/12/1961
+524;70;Depeche Mode;;10/1/1972
+525;55;Derek & The Dominos;;24/8/1987
+526;10;Desireless;;13/10/1960
+527;74;Desmond Dekker;;4/4/1996
+528;51;Des'ree;;28/11/1967
+529;8;Destiny's Child;;16/11/1991
+530;5;Destiny's Child & T.I. & Lil' Wayne;;14/8/1969
+531;43;Devo;;10/7/1964
+532;63;Dexys Midnight Runners;;25/7/1993
+533;65;DHT & Edmee;;19/8/1963
+534;24;Diana King;;17/9/1973
+535;31;Diana Ross;;23/9/1985
+536;11;Diana Ross & Lionel Richie;;14/3/1975
+537;71;Diana Ross & The Supremes;;26/12/1976
+538;21;Diana Ross & The Supremes & The Temptations;;2/6/1995
+539;24;Dick Haymes;;23/7/1986
+540;58;Diddy Dirty Money;;11/3/1975
+541;35;Dido;;12/12/1964
+542;16;Dinah Shore;;17/11/1987
+543;23;Dion;;17/7/1974
+544;12;Dion & The Belmonts;;26/4/1963
+545;8;Dionne Farris;;2/12/1999
+546;77;Dionne Warwick;;26/4/1964
+547;60;Dionne Warwick & Friends;;6/12/1989
+548;10;Dionne Warwick & The Detroit Spinners;;24/7/1962
+549;31;Dire Straits;;21/1/1974
+550;75;Divinyls;;15/6/1971
+551;65;Dixie Cups;;8/11/1966
+552;59;Dizzy Gillespie;;5/9/2000
+553;17;DJ BoBo;;5/3/1977
+554;19;DJ Jazzy Jeff & The Fresh Prince;;20/5/1964
+555;39;DJ Jurgen & Alice DeeJay;;6/11/1975
+556;54;DJ Otzi;;28/7/1997
+557;64;DJ Sammy & Yanou;;24/12/1981
+558;72;DNA & Suzanne Vega;;5/10/1971
+559;38;Dobie Gray;;15/7/1992
+560;41;Doctor & The Medics;;5/8/1983
+561;79;Dolly Parton;;6/7/1967
+562;17;Domenico Modugno;;3/3/1996
+563;32;Don Azpiazu & his Havana Casino Orchestra;;26/4/1974
+564;38;Don Cornell;;15/9/1960
+565;77;Don Costa;;14/11/1995
+566;49;Don Henley;;14/2/1969
+567;48;Don McLean;;25/7/1972
+568;69;Donna Lewis;;26/7/1974
+569;19;Donna Summer;;3/10/1979
+570;73;Donny Osmond;;17/5/1984
+571;19;Donny Osmond & Marie Osmond;;8/5/1994
+572;12;Donovan;;23/8/1973
+573;51;Dooley Wilson;;7/2/1984
+574;9;Doop;;9/1/1992
+575;62;Doris Day;;9/3/1987
+576;54;Doris Day & Buddy Clark;;18/4/1971
+577;24;Dorothy Moore;;9/2/1974
+578;41;Double;;24/8/1978
+579;13;Double You;;27/5/1982
+580;59;Dr Alban;;15/11/1994
+581;77;Dr Dre & Snoop Dogg;;1/8/1987
+582;72;Dr Hook;;9/10/1995
+583;44;Drake & Rihanna;;14/3/1989
+584;12;Dramatics;;1/2/1998
+585;31;Dreamweavers;;16/8/1998
+586;67;Dru Hill;;13/5/1972
+587;22;Duane Eddy;;1/1/1969
+588;41;Duck Sauce;;18/7/1974
+589;7;Duffy;;13/2/1998
+590;52;Duke Ellington;;8/12/1999
+591;47;Duran Duran;;27/12/1977
+592;29;Dusty Springfield;;1/9/1985
+593;46;Dusty Springfield & The Pet Shop Boys;;18/10/1964
+594;64;Eagle-Eye Cherry;;24/5/1992
+595;52;Eagles;;5/6/1989
+596;21;Eamon;;11/3/1993
+597;76;Earth, Wind & Fire;;13/5/1994
+598;29;East 17;;23/12/1990
+599;18;Ed Sheeran;;9/1/1963
+600;72;Eddie Calvert;;13/11/1990
+601;7;Eddie Cantor;;7/10/1983
+602;25;Eddie Cochran;;19/9/1991
+603;37;Eddie Fisher;;23/6/1965
+604;80;Eddie Hodges;;24/10/1989
+605;77;Eddie Holman;;3/6/1970
+606;28;Eddie Murphy;;17/12/1975
+607;18;Eddy Duchin;;12/3/1973
+608;47;Eddy Grant;;9/12/1985
+609;15;Eddy Howard;;8/4/1961
+610;1;Edelweiss;;24/4/1992
+611;51;Edgar Winter Group;;6/12/1966
+612;48;Edie Brickell & The New Bohemians;;18/6/1970
+613;12;Edison Lighthouse;;14/7/1989
+614;73;Edith Piaf;;22/8/1995
+615;16;Edward Bear;;15/9/1979
+616;34;Edward Maya & Vika Jigulina;;8/8/1968
+617;25;Edwin Hawkins Singers;;17/10/1967
+618;50;Edwin Starr;;2/8/1976
+619;59;Edwyn Collins;;3/3/1969
+620;55;Eiffel 65;;10/12/1975
+621;18;Eileen Barton;;13/11/1971
+622;56;El DeBarge;;1/10/1994
+623;49;Electric Light Orchestra;;8/3/1973
+624;34;Elegants;;3/7/1965
+625;69;Ella Fitzgerald;;9/2/2000
+626;49;Ella Fitzgerald & The Ink Spots;;24/11/1999
+627;79;Ellie Goulding;;3/5/1975
+628;49;Elmore James;;8/3/1991
+629;35;Elton John;;13/2/1976
+630;77;Elton John & Kiki Dee;;20/7/1999
+631;22;Elvin Bishop;;11/11/1961
+632;41;Elvis Presley;;27/7/1979
+633;75;Elvis Presley & JXL;;25/2/1986
+634;57;EMF;;20/8/1999
+635;55;Emile Ford & The Checkmates;;27/1/1995
+636;49;Emilia;;23/12/1969
+637;68;Eminem;;12/9/1999
+638;41;Eminem & Rihanna;;13/10/1977
+639;68;Eminem, Dr Dre & 50 Cent;;14/12/1996
+640;20;En Vogue;;16/12/1972
+641;31;Engelbert Humperdinck;;8/6/1966
+642;7;Enigma;;13/11/1971
+643;8;Enrique Iglesias;;14/1/1962
+644;5;Enrique Iglesias & Ludacris;;26/8/1978
+645;80;Enrique Iglesias & Pitbull;;5/6/1962
+646;41;Enya;;15/1/1979
+647;79;Erasure;;21/5/1991
+648;24;Eric Burdon & War;;2/7/1961
+649;68;Eric Carmen;;25/5/1997
+650;65;Eric Clapton;;5/8/1972
+651;3;Eric Prydz;;16/9/1965
+652;62;Eric Weissburg & Steve Mandell;;4/4/1984
+653;45;Ernie K-Doe;;27/4/1968
+654;9;Eros Ramazzotti;;15/5/1986
+655;15;Eruption;;15/6/1969
+656;24;Erykah Badu;;10/12/1996
+657;62;Essex;;24/6/1970
+658;51;Estelle & Kanye West;;4/11/1989
+659;66;Esther & Abi Ofarim;;26/6/1979
+660;45;Esther Phillips;;27/10/1971
+661;18;Eternal;;24/2/1979
+662;7;Eternal & Bebe Winans;;25/6/1983
+663;62;Ethel Waters;;19/9/1960
+664;68;Etta James;;25/12/1995
+665;28;Eumir Deodato;;22/2/1999
+666;47;Europe;;6/10/1989
+667;7;Evanescence;;25/9/1993
+668;60;Eve & Alicia Keys;;3/11/1965
+669;70;Eve & Gwen Stefani;;25/2/1961
+670;23;Eve Young;;20/3/1978
+671;55;Evelyn 'Champagne' King;;1/6/1972
+672;50;Evelyn Knight;;25/3/1996
+673;18;Evelyn Knight & The Stardusters;;28/6/1992
+674;41;Evelyn Thomas;;6/9/1983
+675;62;Everything But The Girl;;25/3/1999
+676;70;Exciters;;6/6/1975
+677;80;Exile;;3/5/1975
+678;16;Expose;;13/10/1966
+679;69;Extreme;;1/8/1975
+680;14;Eydie Gorme;;13/12/1985
+681;28;F R David;;13/9/1998
+682;37;Fairground Attraction;;28/3/1982
+683;53;Faith Hill;;16/10/1995
+684;41;Faith No More;;21/3/1960
+685;53;Faithless;;15/8/1974
+686;44;Falco;;25/8/1966
+687;76;Fall Out Boy;;27/1/1989
+688;47;Fanny Brice;;9/3/1995
+689;5;Far East Movement;;4/6/1968
+690;40;Fastball;;15/3/1991
+691;17;Fat Boys & Chubby Checker;;4/8/1965
+692;25;Fat Joe;;17/5/1984
+693;58;Fatboy Slim;;17/1/1967
+694;60;Fatman Scoop;;20/1/1991
+695;18;Fats Domino;;23/5/1976
+696;50;Fats Waller;;12/6/1994
+697;60;Fendermen;;13/4/1991
+698;18;Fergal Sharkey;;7/8/1994
+699;36;Fergie;;4/4/1974
+700;46;Fergie & Ludacris;;6/12/1979
+701;14;Fergie & will.i.am;;14/9/1983
+702;73;Ferrante & Teicher;;21/12/1984
+703;54;Ferry Aid;;7/7/1990
+704;52;Fess Parker;;13/2/1985
+705;20;Fifth Dimension;;26/1/1960
+706;75;Fine Young Cannibals;;19/7/1977
+707;1;Finger Eleven;;9/1/1973
+708;34;First Class;;21/7/1988
+709;60;Fisk University Jubilee Quartet;;19/8/1995
+710;6;Five;;11/11/1982
+711;9;Five for Fighting;;16/12/1967
+712;71;Fleetwood Mac;;24/11/1983
+713;57;Flo-Rida;;19/9/1978
+714;15;Flo-Rida & David Guetta;;1/3/1981
+715;18;Flo-Rida & Ke$ha;;22/3/1993
+716;73;Flo-Rida & Sia;;17/10/1986
+717;36;Flo-Rida & T-Pain;;23/6/1975
+718;56;Floyd Cramer;;15/10/1967
+719;80;Fool's Garden;;1/4/1979
+720;70;Foreigner;;4/6/1975
+721;3;Foster the People;;28/1/1987
+722;43;Fountains of Wayne;;19/6/1972
+723;18;Four Aces;;1/1/1973
+724;21;Four Lads;;5/9/1991
+725;27;Four Non Blondes;;5/11/1974
+726;55;Foxy;;18/12/1979
+727;33;France Gall;;6/3/1992
+728;17;Francis Craig;;18/7/1988
+729;63;Francis Lai;;13/2/2000
+730;15;Francoise Hardy;;13/7/1985
+731;3;Frank Chacksfield;;9/10/1970
+732;16;Frank Duval;;20/1/1961
+733;24;Frank Ifield;;15/8/1983
+734;9;Frank Mills;;2/12/1997
+735;54;Frank Sinatra;;7/6/1991
+736;37;Frank Stallone;;1/3/1995
+737;11;Frank Weir & Orchestra;;22/6/1997
+738;21;Frankee;;24/2/1965
+739;20;Frankie Avalon;;21/2/1990
+740;42;Frankie Carle;;11/1/1992
+741;46;Frankie Ford;;5/11/1983
+742;68;Frankie Goes To Hollywood;;19/8/1994
+743;1;Frankie Laine;;2/7/1999
+744;8;Frankie Lymon & The Teenagers;;25/7/1993
+745;54;Frankie Trumbauer;;10/11/1964
+746;46;Frankie Valli;;5/2/1980
+747;6;Frankie Vaughan;;28/7/1974
+748;63;Franz Ferdinand;;2/9/1983
+749;15;Fred Astaire;;5/4/1994
+750;79;Fred Astaire & Leo Reisman;;8/8/1991
+751;50;Fred Waring & the Pennsylvanians;;21/4/1968
+752;80;Freda Payne;;27/7/1962
+753;74;Freddie & The Dreamers;;6/5/1980
+754;26;Freddie Mercury;;10/11/1972
+755;55;Freddy Cannon;;17/2/1976
+756;67;Freddy Fender;;5/4/1979
+757;28;Freddy Martin;;6/11/1961
+758;56;Freddy Quinn;;1/3/1967
+759;55;Free;;12/10/1992
+760;19;Frida;;1/8/1983
+761;59;Frijid Pink;;22/6/1973
+762;62;fun.;;25/4/1996
+763;2;Gabriella Cilmi;;3/3/1979
+764;9;Gabrielle;;25/5/1977
+765;65;Gallery;;2/10/1996
+766;39;Garbage;;19/12/1985
+767;35;Gareth Gates;;1/5/1963
+768;73;Gary Barlow;;25/6/1968
+769;1;Gary Glitter;;28/12/1971
+770;69;Gary Lewis & The Playboys;;20/2/1976
+771;46;Gary Moore;;1/6/1997
+772;40;Gary Numan;;6/12/1977
+773;3;Gary Puckett & The Union Gap;;22/1/1965
+774;39;Gary US Bonds;;13/9/1988
+775;45;Gary Wright;;25/1/1965
+776;47;Gavin Degraw;;3/10/1986
+777;5;Gazebo;;28/1/1987
+778;12;Gene Austin;;17/11/1968
+779;16;Gene Autry;;18/5/1967
+780;66;Gene Chandler;;27/12/1974
+781;11;Gene Pitney;;19/12/1998
+782;14;Gene Vincent;;25/1/1978
+783;2;Genesis;;10/12/1996
+784;37;George Baker Selection;;25/11/1993
+785;59;George Benson;;14/3/1976
+786;31;George Gershwin;;16/8/1998
+787;59;George Harrison;;19/1/1992
+788;76;George McCrae;;18/10/1996
+789;76;George Michael;;12/12/1984
+790;54;George Michael & Elton John;;10/7/1972
+791;54;George Olsen;;11/6/1992
+792;60;Georgia Gibbs;;13/12/1968
+793;44;Georgie Fame;;21/5/1976
+794;15;Geri Halliwell;;17/7/1972
+795;58;Gerry & the Pacemakers;;2/4/1963
+796;65;Gerry Rafferty;;11/7/1990
+797;13;Gertrude Lawrence;;18/7/1972
+798;18;Gigliola Cinquetti;;24/3/1967
+799;3;Gilbert O'Sullivan;;18/8/1964
+800;33;Gin Blossoms;;9/3/1965
+801;4;Gina G;;19/4/1994
+802;35;Gino Vannelli;;4/1/1967
+803;52;Ginuwine;;18/11/1999
+804;33;Girls Aloud;;12/12/2000
+805;21;Gladys Knight & The Pips;;6/12/1965
+806;21;Glass Tiger;;26/5/1965
+807;65;Glen Campbell;;26/2/1996
+808;19;Glen Gray;;28/8/1966
+809;39;Glenn Frey;;21/11/1996
+810;41;Glenn Medeiros;;13/8/1979
+811;22;Glenn Medeiros & Bobby Brown;;1/9/1969
+812;43;Glenn Miller;;20/12/1996
+813;61;Gloria Estefan;;7/2/1972
+814;79;Gloria Estefan & Miami Sound Machine;;5/10/1979
+815;75;Gloria Gaynor;;13/1/1974
+816;9;Gnarls Barkley;;15/3/1996
+817;13;Gogi Grant;;3/2/1988
+818;7;Golden Earring;;5/8/1981
+819;60;Good Charlotte;;6/9/1980
+820;56;Goombay Dance Band;;2/6/1999
+821;73;Gordon Jenkins;;14/2/1972
+822;18;Gordon Jenkins & The Stardusters;;9/12/1966
+823;4;Gordon Jenkins & The Weavers;;27/10/1967
+824;34;Gordon Lightfoot;;9/10/1983
+825;7;Gorillaz;;7/11/1973
+826;23;Gotye & Kimbra;;10/9/1964
+827;44;Gracie Fields;;20/10/1980
+828;22;Grand Funk Railroad;;2/2/1991
+829;46;Grandmaster Flash & The Furious Five;;22/6/1964
+830;16;Grass Roots;;16/3/1973
+831;17;Green Day;;22/6/1988
+832;49;Green Jelly;;16/5/1971
+833;76;Greg Kihn Band;;5/3/1971
+834;61;Gregory Abbott;;27/12/1961
+835;77;Groove Theory;;12/5/1967
+836;48;Grover Washington Jr;;2/5/1965
+837;48;Guess Who;;24/8/1993
+838;3;Guns n' Roses;;20/2/1980
+839;12;Guru Josh;;23/8/1996
+840;43;Guy Lombardo;;21/6/1969
+841;39;Guy Mitchell;;22/8/1973
+842;77;Gwen Stefani;;8/7/1990
+843;35;Gwen Stefani & Akon;;20/1/1963
+844;29;Gym Class Heroes;;14/1/1964
+845;12;Haddaway;;20/8/1962
+846;20;Hall & Oates;;15/3/1999
+847;63;Hamilton, Joe Frank & Reynolds;;3/2/2000
+848;27;Hank Locklin;;9/2/1967
+849;77;Hank Williams;;4/1/1987
+850;61;Hanson;;8/3/1997
+851;5;Happenings;;3/4/1983
+852;25;Harold Faltermeyer;;1/1/1997
+853;24;Harold Melvin & The Bluenotes;;18/10/1977
+854;17;Harpo;;20/2/1979
+855;52;Harry Belafonte;;17/2/1990
+856;67;Harry Chapin;;12/6/1963
+857;51;Harry James;;17/6/1998
+858;7;Harry James & Dick Haymes;;25/6/1983
+859;13;Harry Nilsson;;23/4/1983
+860;25;Harry Richman;;21/1/1962
+861;70;Heart;;9/9/1974
+862;40;Heatwave;;2/10/1961
+863;12;Heavy D & The Boyz;;16/4/1969
+864;49;Helen Forrest & Dick Haymes;;12/11/1990
+865;71;Helen Kane;;3/9/1976
+866;17;Helen Reddy;;5/5/1986
+867;1;Helen Shapiro;;7/2/1963
+868;47;Hellogoodbye;;10/10/1977
+869;43;Henry Gross;;27/4/1982
+870;71;Henry Mancini;;16/4/1984
+871;18;Herb Alpert;;27/4/1993
+872;58;Herbie Hancock;;15/5/1976
+873;70;Herman's Hermits;;6/5/2000
+874;66;Highwaymen;;4/3/1968
+875;33;Hilary Duff;;9/3/1993
+876;13;Hinder;;5/4/1990
+877;68;Hoagy Carmichael;;22/8/1996
+878;37;Hole;;11/3/1986
+879;4;Holly Johnson;;23/6/1986
+880;54;Holly Valance;;19/10/1982
+881;13;Hollywood Argyles;;22/5/1975
+882;60;Honey Cone;;19/4/1966
+883;41;Hoobastank;;5/9/1981
+884;51;Hootie & The Blowfish;;27/11/1990
+885;64;Horace Heidt;;22/2/1964
+886;27;Hot Butter;;22/12/1982
+887;64;Hot Chocolate;;9/2/1997
+888;40;House of Pain;;23/11/1976
+889;40;Houston;;13/5/1967
+890;63;Howard Jones;;4/7/1995
+891;64;Howlin' Wolf;;12/9/1983
+892;64;Hues Corporation;;18/3/1972
+893;14;Huey Lewis & The News;;28/9/1968
+894;69;Hugo Montenegro;;17/6/1970
+895;24;Hurricane Smith;;27/8/1973
+896;71;Ian Dury & The Blockheads;;24/10/1979
+897;23;Ice Cube;;26/3/1983
+898;54;Ides of March;;26/8/1989
+899;42;Ike & Tina Turner;;14/6/1981
+900;70;Imagination;;7/4/1988
+901;16;Impalas;;12/6/1988
+902;55;Impressions;;19/12/1989
+903;40;Indeep;;9/9/1986
+904;75;Inez & Charlie Foxx;;25/7/1980
+905;2;Information Society;;27/4/1963
+906;5;Ini Kamoze;;14/10/1960
+907;63;Inner Circle;;14/8/1987
+908;76;Inner City;;2/1/1961
+909;44;Instant Funk;;12/11/1992
+910;48;INXS;;2/5/1990
+911;26;Irene Cara;;10/2/1968
+912;35;Irish Rovers;;17/6/1993
+913;64;Isaac Hayes;;21/2/1962
+914;1;Isham Jones;;12/8/1975
+915;70;Ivo Robic;;24/6/1986
+916;19;Iyaz;;21/12/1987
+917;53;J Frank Wilson & the Cavaliers;;24/4/1992
+918;39;J Geils Band;;21/7/1963
+919;65;Ja Rule;;12/4/1997
+920;30;Ja Rule & Ashanti;;22/7/1968
+921;17;Jack Johnson;;25/6/1977
+922;1;Jack McVea & his Band;;12/11/1995
+923;61;Jack Scott;;25/10/1971
+924;69;Jack Smith;;17/2/1980
+925;70;Jackie Wilson;;10/3/1983
+926;3;Jade;;13/7/1997
+927;42;Jam & Spoon;;17/2/2000
+928;19;Jamelia;;9/5/1960
+929;60;James Baskett;;23/11/1968
+930;13;James Blunt;;26/4/1992
+931;74;James Brown;;13/4/1976
+932;65;James Darren;;7/5/1988
+933;32;James Morrison;;13/12/1966
+934;25;James Taylor;;23/11/1967
+935;5;Jamiroquai;;4/4/1960
+936;20;Jan & Dean;;9/6/1997
+937;80;Jan & Kjeld;;12/1/1965
+938;80;Jan Garber;;4/1/2000
+939;19;Jan Hammer;;10/8/1966
+940;14;Jane Birkin & Serge Gainsbourg;;12/8/1966
+941;12;Jane Child;;5/9/1990
+942;6;Jane Morgan;;11/11/1961
+943;17;Janet Jackson;;6/11/1994
+944;42;Janet Jackson & Q-Tip & Joni Mitchell;;20/6/1986
+945;13;Janis Ian;;20/6/1964
+946;78;Janis Joplin;;2/6/1998
+947;18;Jann Arden;;4/1/1960
+948;31;Jason Derulo;;5/5/1975
+949;10;Jason Derulo & 2 Chainz;;12/8/1990
+950;32;Jason Donovan;;27/12/1960
+951;49;Jason Mraz;;13/8/1998
+952;12;Jay & the Americans;;22/8/1969
+953;47;Jay Sean;;13/6/1988
+954;32;Jay Sean & Lil' Wayne;;18/1/1998
+955;42;Jay-Z;;10/10/1985
+956;44;Jay-Z & Alicia Keys;;5/4/1978
+957;54;Jay-Z & Linkin Park;;18/8/1965
+958;70;Jay-Z, Rihanna & Kanye West;;19/2/1999
+959;71;Jean Knight;;15/8/1997
+960;32;Jean-Claude Borelly;;3/10/1995
+961;32;Jeanette;;3/10/1988
+962;51;Jeannie C Riley;;2/2/1990
+963;29;Jeff Buckley;;13/2/2000
+964;70;Jefferson Airplane;;27/3/1998
+965;22;Jefferson Starship;;12/9/1985
+966;8;Jennifer Lopez;;23/7/1963
+967;30;Jennifer Lopez & LL Cool J;;14/7/1978
+968;58;Jennifer Lopez & Pitbull;;9/12/1989
+969;44;Jennifer Paige;;10/3/1979
+970;5;Jennifer Rush;;22/8/1991
+971;65;Jermaine Jackson & Pia Zadora;;20/5/1972
+972;78;Jerry Lee Lewis;;3/11/1975
+973;58;Jerry Murad's Harmonicats;;12/1/1964
+974;49;Jesse McCartney;;22/10/1972
+975;44;Jessica Simpson;;17/9/1974
+976;66;Jessie J;;23/4/1961
+977;22;Jessie J & BoB;;10/11/1961
+978;45;Jesus Jones;;17/4/1997
+979;4;Jet;;24/2/1978
+980;80;Jewel;;17/5/1999
+981;33;Jewel Akens;;10/5/1989
+982;69;Jigsaw;;16/4/1965
+983;75;Jim Croce;;19/3/1970
+984;39;Jim Diamond;;11/4/1971
+985;67;Jim Lowe;;16/12/1987
+986;49;Jim Reeves;;1/9/1998
+987;48;Jim Stafford;;7/11/1969
+988;60;Jimi Hendrix;;20/10/1997
+989;11;Jimmie Davis;;21/1/1961
+990;54;Jimmie Rodgers;;14/11/1984
+991;57;Jimmy Boyd;;19/8/1995
+992;62;Jimmy Boyd & Frankie Laine;;28/4/1974
+993;50;Jimmy Castor Bunch;;7/12/1996
+994;36;Jimmy Cliff;;23/11/1967
+995;22;Jimmy Dean;;25/9/1990
+996;2;Jimmy Dorsey;;20/5/1988
+997;78;Jimmy Eat World;;1/10/1998
+998;45;Jimmy Jones;;24/11/1984
+999;65;Jimmy Nail;;22/1/1962
+1000;1;Jimmy Ruffin;;1/10/1997
+1001;33;Jimmy Soul;;13/2/1974
+1002;15;Jimmy Young;;24/7/1966
+1003;67;Jive Bunny & The Mastermixers;;25/8/1971
+1004;71;J-Kwon;;13/1/1966
+1005;32;Jo Stafford;;1/7/1981
+1006;42;Joan Baez;;14/1/1982
+1007;65;Joan Jett & The Blackhearts;;10/10/1967
+1008;26;Joan Osborne;;25/1/1982
+1009;3;Joan Weber;;28/3/1978
+1010;40;Jody Watley;;15/4/1973
+1011;41;Joe Cocker;;19/3/1997
+1012;77;Joe Cocker & Jennifer Warnes;;21/3/1993
+1013;57;Joe Dolce;;3/2/1962
+1014;75;Joe 'Fingers' Carr;;22/12/1976
+1015;20;Joe Jackson;;8/5/1982
+1016;34;Joe Public;;19/8/1996
+1017;57;Joe South;;15/3/1970
+1018;37;Joe Tex;;14/2/1965
+1019;27;Joe Thomas;;8/3/1987
+1020;3;Joe Thomas & Mystikal;;16/2/1969
+1021;15;Joey Dee & The Starliters;;23/2/1973
+1022;34;Joey Scarbury;;6/5/1965
+1023;13;John Cougar Mellencamp;;28/2/1977
+1024;3;John Cougar Mellencamp & Me'Shell Ndegeocello;;25/7/1976
+1025;27;John Denver;;2/4/1977
+1026;2;John Farnham;;3/2/1989
+1027;1;John Fred & The Playboy Band;;15/6/1969
+1028;41;John Lee Hooker;;19/8/1960
+1029;58;John Lennon;;27/2/1983
+1030;15;John Leyton;;16/9/1990
+1031;64;John Mayer;;9/4/1972
+1032;43;John Miles;;25/10/1974
+1033;65;John Parr;;7/2/1994
+1034;14;John Paul Young;;3/7/1985
+1035;63;John Sebastian;;1/12/1967
+1036;58;John Travolta & Olivia Newton-John;;22/10/1988
+1037;39;John Waite;;19/7/1990
+1038;43;Johnnie Ray;;10/3/1994
+1039;7;Johnnie Taylor;;10/10/1980
+1040;61;Johnny & The Hurricanes;;9/6/1964
+1041;74;Johnny Burnette;;8/9/1977
+1042;64;Johnny Cash;;6/7/1993
+1043;17;Johnny Gill;;4/12/1967
+1044;69;Johnny Hates Jazz;;5/3/1961
+1045;60;Johnny Horton;;9/5/1968
+1046;59;Johnny Logan;;23/10/1973
+1047;66;Johnny Mathis;;20/3/1972
+1048;56;Johnny Mathis & Deniece Williams;;6/5/1978
+1049;40;Johnny Mercer;;9/3/1965
+1050;55;Johnny Mercer & Jo Stafford;;9/5/1965
+1051;49;Johnny Nash;;2/1/1996
+1052;3;Johnny Preston;;10/7/1984
+1053;15;Johnny Rivers;;19/3/1980
+1054;40;Johnny Standley;;19/2/1994
+1055;39;Johnny Tillotson;;22/10/1996
+1056;2;Johnny Wakelin;;18/7/1982
+1057;59;JoJo;;13/10/2000
+1058;31;Jon & Vangelis;;26/1/1973
+1059;59;Jon Secada;;26/4/2000
+1060;61;Jona Lewie;;22/3/1978
+1061;8;Jonas Brothers;;22/4/1976
+1062;10;Jonathan Edwards;;22/1/1977
+1063;73;Joni James;;6/10/1996
+1064;77;Joni Mitchell;;9/4/1983
+1065;77;Jordin Sparks;;23/4/1990
+1066;36;Jordin Sparks & Chris Brown;;5/5/1991
+1067;48;Jose Feliciano;;16/7/1979
+1068;49;Journey;;7/2/1978
+1069;33;Joy Division;;1/8/1963
+1070;13;Juanes;;6/9/1964
+1071;24;Judy Garland;;19/6/1960
+1072;36;Judy Garland & Gene Kelly;;27/9/1983
+1073;41;Juice Newton;;23/3/1979
+1074;78;Julee Cruise;;9/10/1972
+1075;33;Julian Lennon;;28/9/1965
+1076;16;Julie Covington;;9/1/1993
+1077;58;Julie London;;10/1/1966
+1078;19;Julie Rogers;;2/3/1996
+1079;63;Julio Iglesias & Willie Nelson;;3/12/1986
+1080;48;Julius Larosa;;19/12/1960
+1081;48;Junior Senior;;20/10/1996
+1082;6;Junior Walker & The All-Stars;;2/7/1968
+1083;29;Justin Bieber;;6/5/1974
+1084;28;Justin Bieber & Ludacris;;17/2/2000
+1085;54;Justin Timberlake;;19/12/1966
+1086;17;K7;;24/12/1967
+1087;74;Kajagoogoo;;1/2/1997
+1088;30;Kansas;;13/10/1996
+1089;29;Kanye West;;6/12/1983
+1090;69;Kanye West & Jamie Foxx;;17/1/2000
+1091;7;Kaoma;;14/7/1992
+1092;4;Kardinal Offishall;;25/1/1973
+1093;12;Karyn White;;11/8/1993
+1094;72;Kate Bush;;6/7/1977
+1095;33;Kate Smith;;1/4/1963
+1096;60;Kate Winslet;;6/6/1961
+1097;41;Katrina & The Waves;;7/2/1970
+1098;33;Katy Perry;;3/3/1976
+1099;6;Katy Perry & Kanye West;;3/10/1972
+1100;45;Katy Perry & Snoop Dogg;;15/9/1963
+1101;55;Kay Kyser;;1/12/1976
+1102;69;Kay Starr;;6/10/1962
+1103;68;KC & The Sunshine Band;;28/11/1960
+1104;43;K-Ci & JoJo;;2/12/1976
+1105;50;Ke$ha;;25/2/1963
+1106;26;Keane;;15/1/1987
+1107;13;Keith Carradine;;9/11/1978
+1108;77;Keith Sweat;;22/9/2000
+1109;44;Keith Sweat & Athena Cage;;1/4/1977
+1110;2;Kelis;;28/4/1979
+1111;16;Kelly Clarkson;;6/1/1983
+1112;30;Kelly Marie;;5/1/1995
+1113;64;Kelly Rowland;;23/6/1994
+1114;73;Ken Griffin;;10/10/1988
+1115;50;Kenny Ball & his Jazzmen;;6/4/1972
+1116;52;Kenny G;;20/8/1979
+1117;37;Kenny Loggins;;21/12/1977
+1118;29;Kenny Loggins & Stevie Nicks;;22/2/1981
+1119;58;Kenny Rogers;;25/1/1960
+1120;45;Kenny Rogers & Dolly Parton;;21/4/1989
+1121;24;Kenny Rogers & Sheena Easton;;16/4/1988
+1122;79;Keri Hilson & Kanye West & Ne-Yo;;18/11/1984
+1123;7;Ketty Lester;;11/11/1977
+1124;69;Kevin Lyttle;;22/5/1968
+1125;49;Kevin Rudolf & Lil' Wayne;;25/7/2000
+1126;47;Kid Cudi & Crookers;;15/4/1965
+1127;4;Kid Rock;;27/10/1999
+1128;63;Kim Carnes;;10/8/1972
+1129;74;Kim Wilde;;14/8/1997
+1130;74;King;;9/1/1966
+1131;22;Kings of Leon;;4/10/1996
+1132;50;Kingsmen;;5/12/1970
+1133;54;Kiss;;8/5/1982
+1134;4;Kitty Kallen;;28/12/1974
+1135;13;KLF;;13/5/1982
+1136;28;Klymaxx;;26/2/1982
+1137;41;K'Naan;;23/9/1995
+1138;62;Kool & The Gang;;15/7/1997
+1139;26;Kraftwerk;;18/8/1974
+1140;79;Kris Kross;;25/3/1996
+1141;28;KT Tunstall;;9/2/1990
+1142;25;KWS;;5/7/1974
+1143;37;Kylie Minogue;;13/11/1976
+1144;24;Kylie Minogue & Jason Donovan;;20/11/1969
+1145;50;Kyu Sakamoto;;2/3/1963
+1146;57;La Belle Epoque;;6/8/1976
+1147;21;La Bouche;;8/4/1965
+1148;37;La Roux;;9/2/1999
+1149;34;Lady Antebellum;;17/5/1984
+1150;33;Lady GaGa;;19/9/1988
+1151;29;Lady GaGa & Beyonce;;12/1/1980
+1152;46;Lady GaGa & Colby O'Donis;;20/11/1974
+1153;58;Lale Andersen;;1/9/1981
+1154;34;Lana Del Rey;;2/9/1993
+1155;8;Larry Clinton;;12/10/1980
+1156;59;Las Ketchup;;6/12/1976
+1157;80;Lasgo;;13/8/1994
+1158;56;Laura Branigan;;13/11/1961
+1159;44;Laurie London;;28/1/1983
+1160;23;Lauryn Hill;;5/10/1972
+1161;62;Lawrence Welk;;25/2/1960
+1162;40;Leadbelly;;12/10/1965
+1163;37;LeAnn Rimes;;7/6/1984
+1164;63;Leapy Lee;;20/9/1991
+1165;67;Led Zeppelin;;6/7/1973
+1166;77;Lee Ann Womack;;13/7/1999
+1167;35;Leila K & Rob 'n' Raz;;25/4/1967
+1168;5;Len;;8/1/1990
+1169;57;Len Barry;;8/3/1970
+1170;80;Lena Horne;;18/5/1964
+1171;46;Lenny Kravitz;;4/5/1969
+1172;64;Leo Reisman;;13/4/1987
+1173;39;Leo Sayer;;17/10/1985
+1174;13;Leona Lewis;;9/4/1971
+1175;1;Leroy Anderson;;10/4/1962
+1176;65;Leroy Van Dyke;;27/12/1967
+1177;41;Les Baxter & his Orchestra;;22/11/1970
+1178;65;Les Brown;;2/12/1996
+1179;39;Les Brown & Doris Day;;9/3/1963
+1180;25;Les Humphries Singers;;5/3/1973
+1181;66;Les Paul & Mary Ford;;18/6/1970
+1182;80;Lesley Gore;;6/12/1963
+1183;24;Lester Flatt & Earl Scruggs;;11/6/1970
+1184;21;Level 42;;15/1/1992
+1185;17;Liberty X;;22/5/1963
+1186;10;Lieutenant Pigeon;;9/4/1967
+1187;21;Lifehouse;;19/5/1983
+1188;27;Lil' Jon & The East Side Boyz;;12/12/1982
+1189;24;Lil' Louis;;18/6/1981
+1190;21;Lil' Wayne;;18/5/1960
+1191;75;Lily Allen;;6/9/1961
+1192;11;Limahl;;1/3/1998
+1193;24;Limp Bizkit;;7/6/1986
+1194;9;Linda Ronstadt;;27/1/1980
+1195;2;Linda Ronstadt & Aaron Neville;;23/9/1968
+1196;6;Linda Ronstadt & James Ingram;;28/1/1982
+1197;3;Lindsey Buckingham;;23/2/1990
+1198;25;Link Wray;;12/9/1977
+1199;61;Linkin Park;;19/5/1964
+1200;47;Lionel Richie;;12/1/1986
+1201;20;Lipps Inc;;24/5/1995
+1202;39;Lisa Lisa & Cult Jam;;24/7/1987
+1203;41;Lisa Loeb & Nine Stories;;8/2/1992
+1204;31;Lisa Stansfield;;11/4/1962
+1205;45;Little Eva;;27/11/1996
+1206;72;Little Jimmy Osmond;;17/11/1994
+1207;28;Little Peggy March;;12/9/1998
+1208;22;Little Richard;;6/1/1974
+1209;57;Little River Band;;25/2/1988
+1210;55;Living In A Box;;11/11/1983
+1211;47;LL Cool J;;5/12/1978
+1212;74;Lloyd Price;;16/9/1965
+1213;19;LMFAO;;16/2/1987
+1214;11;Lobo;;5/4/1965
+1215;1;Lolita;;23/4/2000
+1216;58;Londonbeat;;22/5/1977
+1217;64;Lonestar;;6/5/1979
+1218;74;Lonnie Donegan;;3/12/1996
+1219;14;Looking Glass;;11/9/1994
+1220;7;Lorde;;25/7/1966
+1221;49;Lordi;;19/8/1961
+1222;6;Loreen;;19/5/1971
+1223;76;Lorne Greene;;15/1/1967
+1224;8;Los Bravos;;27/10/1985
+1225;45;Los Del Rio;;16/10/1969
+1226;21;Los Indios Tabajaras;;15/10/1963
+1227;8;Los Lobos;;9/7/1985
+1228;53;Los Lonely Boys;;9/3/2000
+1229;46;Los Machucambos;;14/2/1962
+1230;37;Lou Bega;;2/3/1968
+1231;62;Lou Christie;;27/1/1980
+1232;59;Lou Rawls;;1/5/1991
+1233;8;Lou Reed;;15/10/1994
+1234;4;Louis Armstrong;;9/5/1988
+1235;44;Louis Jordan;;16/7/1979
+1236;29;Louis Prima;;17/9/1992
+1237;40;Love & Rockets;;15/8/1967
+1238;8;Love Unlimited;;12/11/1990
+1239;2;Lovin' Spoonful;;9/3/1996
+1240;5;LTD;;21/2/1979
+1241;47;Ludacris & Shaunna;;10/9/1994
+1242;22;Lulu;;7/2/1997
+1243;49;Lumidee;;21/1/2000
+1244;6;Luniz;;11/1/1971
+1245;78;Luther Vandross;;12/11/1994
+1246;64;Luther Vandross & Janet Jackson;;13/1/1974
+1247;44;Luther Vandross & Mariah Carey;;6/3/1963
+1248;30;Lutricia McNeal;;3/6/1979
+1249;13;Luv';;20/3/1986
+1250;16;Lynn Anderson;;28/6/1979
+1251;18;Lynyrd Skynyrd;;11/4/1974
+1252;54;Lyte Funkie Ones;;11/8/1984
+1253;27;M;;7/9/1961
+1254;64;Ma Rainey;;23/9/1967
+1255;43;Mac Davis;;12/1/1996
+1256;16;Macklemore & Ryan Lewis;;14/12/1998
+1257;68;Macy Gray;;8/12/1979
+1258;66;Madcon;;12/8/1975
+1259;24;Mad'house;;9/7/1985
+1260;58;Madness;;20/1/1994
+1261;41;Madonna;;28/8/1997
+1262;59;Madonna & Justin Timberlake;;27/7/1996
+1263;35;Mahalia Jackson;;1/11/1975
+1264;58;Main Ingredient;;2/6/1970
+1265;11;Major Lance;;1/5/1986
+1266;59;Mama Cass;;9/11/1979
+1267;61;Mamie Smith;;22/12/1982
+1268;28;Manfred Mann;;1/12/1973
+1269;3;Manfred Mann's Earth Band;;1/11/1967
+1270;5;Manhattan Transfer;;7/3/1987
+1271;29;Mantovani;;5/6/1995
+1272;48;Manu Chao;;23/7/1979
+1273;77;Marc Almond & Gene Pitney;;15/4/1989
+1274;7;Marc Anthony;;4/9/1985
+1275;1;Marcy Playground;;5/10/1975
+1276;31;Margaret Whiting;;26/1/1999
+1277;2;Margaret Whiting & Jimmy Wakely;;15/8/1990
+1278;48;Maria McKee;;24/9/1968
+1279;62;Maria Muldaur;;7/3/1973
+1280;32;Mariah Carey;;23/5/1975
+1281;45;Mariah Carey & Boyz II Men;;22/10/1966
+1282;71;Mariah Carey & Westlife;;13/9/1971
+1283;80;Mariah Carey & Whitney Houston;;19/10/2000
+1284;41;Marie Myriam;;25/6/1968
+1285;50;Marie Osmond;;5/10/1966
+1286;49;Marillion;;26/11/1989
+1287;62;Marilyn Manson;;21/11/2000
+1288;51;Marilyn McCoo & Billy Davis Jr;;19/3/1983
+1289;58;Marino Marini & his Quartet;;3/2/1975
+1290;3;Mario;;25/6/1985
+1291;46;Mario Lanza;;25/7/1971
+1292;11;Mario Winans;;19/3/1987
+1293;21;Marion Harris;;7/2/1968
+1294;69;Mark Dinning;;14/4/1978
+1295;60;Mark Morrison;;28/2/1962
+1296;7;Mark Oh;;22/12/1967
+1297;54;Mark Ronson & Amy Winehouse;;13/3/1985
+1298;20;Marky Mark & The Funky Bunch;;4/11/1972
+1299;3;Marmalade;;17/5/1977
+1300;17;Maroon 5;;28/4/1998
+1301;58;Maroon 5 & Christina Aguilera;;1/10/1987
+1302;57;Maroon 5 & Wiz Khalifa;;28/10/1992
+1303;65;MARRS;;17/7/1965
+1304;28;Marshall Hain;;1/4/1965
+1305;27;Martha & The Vandellas;;17/6/1997
+1306;9;Martha Tilton;;16/3/1988
+1307;34;Marti Webb;;1/9/1999
+1308;22;Martika;;23/6/1984
+1309;34;Marty Balin;;4/3/1986
+1310;32;Marty Robbins;;1/10/1964
+1311;24;Marvin Gaye;;19/7/1987
+1312;12;Marvin Gaye & Tammi Terrell;;6/6/1984
+1313;34;Marvin Hamlisch;;26/10/1984
+1314;9;Mary Hopkin;;8/11/1975
+1315;56;Mary J Blige;;20/9/1996
+1316;34;Mary J Blige & U2;;8/5/1991
+1317;74;Mary MacGregor;;16/7/1962
+1318;61;Mary Mary;;19/11/1973
+1319;26;Mary Wells;;5/6/1995
+1320;50;Mason Williams;;9/7/1965
+1321;28;Matchbox Twenty;;3/2/1973
+1322;46;Mattafix;;10/8/1962
+1323;38;Matthew Wilder;;22/7/1978
+1324;1;Matthews Southern Comfort;;6/7/1992
+1325;71;Maureen McGovern;;10/9/1980
+1326;15;Maurice Williams & The Zodiacs;;3/4/1995
+1327;78;Maxi Priest;;17/6/1982
+1328;17;Maxi Priest & Shaggy;;22/2/1969
+1329;5;Maxine Nightingale;;11/7/1987
+1330;11;MC Hammer;;15/11/1985
+1331;4;MC Lyte;;5/6/1981
+1332;26;MC Miker G & DJ Sven;;9/4/1970
+1333;36;MC Sar & The Real McCoy;;7/10/2000
+1334;21;McFadden & Whitehead;;5/6/1990
+1335;29;McGuire Sisters;;25/12/1978
+1336;58;Meat Loaf;;13/7/1963
+1337;24;Meco;;8/2/1972
+1338;46;Meghan Trainor;;23/11/1988
+1339;10;Mel & Kim;;19/3/1996
+1340;50;Mel Blanc;;5/11/1992
+1341;70;Mel Torme;;8/7/1997
+1342;39;Melanie;;27/6/1973
+1343;8;Melanie C;;10/1/1983
+1344;37;Melanie C & Lisa 'Left Eye' Lopes;;17/2/1996
+1345;53;Men At Work;;11/5/1995
+1346;36;Men Without Hats;;25/10/1973
+1347;14;Meredith Brooks;;3/9/1960
+1348;56;Merril Bainbridge;;9/9/1997
+1349;64;Merrilee Rush;;18/10/1991
+1350;48;Merry Macs;;21/8/1996
+1351;66;Metallica;;15/4/1979
+1352;5;Metallica & Marianne Faithfull;;7/1/1970
+1353;59;Metro Station;;26/3/1966
+1354;40;MFSB;;17/4/1960
+1355;27;Mgmt;;16/5/1975
+1356;5;MIA;;20/3/1992
+1357;4;Miami Sound Machine;;21/4/1976
+1358;21;Michael Andrews & Gary Jules;;15/12/1989
+1359;62;Michael Bolton;;12/11/1984
+1360;42;Michael Buble;;8/10/1999
+1361;39;Michael Damian;;2/1/1982
+1362;51;Michael Jackson;;14/8/1995
+1363;4;Michael Jackson & Janet Jackson;;28/2/1968
+1364;41;Michael Jackson & Siedah Garrett;;5/11/1971
+1365;43;Michael Martin Murphey;;6/9/1965
+1366;44;Michael McDonald;;15/10/1976
+1367;28;Michael Sembello;;9/11/1985
+1368;44;Michael Zager Band;;16/4/1994
+1369;58;Michel Telo;;1/3/1999
+1370;33;Michelle Branch;;18/6/1976
+1371;9;Mick Jagger;;4/4/1992
+1372;49;Middle of The Road;;19/11/1994
+1373;28;Midge Ure;;7/3/1971
+1374;33;Midnight Oil;;19/10/1963
+1375;70;Miguel Rios;;8/12/1994
+1376;51;Mika;;16/8/1966
+1377;79;Mike & The Mechanics;;14/4/1979
+1378;75;Mike Oldfield;;12/2/1994
+1379;32;Mike Posner;;13/11/1982
+1380;16;Mikis Theodorakis;;9/5/1981
+1381;29;Miley Cyrus;;15/5/1985
+1382;14;Milk & Honey;;20/8/1979
+1383;64;Milli Vanilli;;9/3/1972
+1384;60;Millie Small;;27/2/1983
+1385;32;Mims;;25/6/1963
+1386;49;Minnie Riperton;;2/8/1963
+1387;37;Mireille Mathieu;;13/11/1985
+1388;56;Miriam Makeba;;26/2/1961
+1389;3;Missy 'Misdemeanor' Elliott;;14/2/1963
+1390;43;Mis-Teeq;;23/1/1969
+1391;72;Mitch Miller;;23/12/1999
+1392;42;Mitch Ryder & The Detroit Wheels;;17/9/1988
+1393;5;Moby;;22/10/1981
+1394;31;Mocedades;;24/7/1981
+1395;12;Modern Talking;;24/7/1961
+1396;35;Modjo;;14/6/1960
+1397;13;Monica;;4/4/1960
+1398;9;Montell Jordan;;19/11/1979
+1399;75;Monty Python;;21/4/1999
+1400;57;Morris Albert;;6/10/1998
+1401;3;Morris Stoloff;;20/9/1987
+1402;50;Mory Kante;;11/1/1969
+1403;22;Mouth & MacNeal;;22/11/1976
+1404;12;Mr Acker Bilk;;3/5/1989
+1405;79;Mr Big;;24/4/1984
+1406;50;Mr Mister;;16/8/1971
+1407;10;Mr Oizo;;8/12/1964
+1408;61;Mr President;;11/1/1985
+1409;28;Mud;;25/5/1972
+1410;6;Muddy Waters;;13/7/1970
+1411;75;Mungo Jerry;;9/2/1993
+1412;17;Murray Head;;2/8/1975
+1413;3;Musical Youth;;7/2/1992
+1414;45;My Chemical Romance;;10/4/1977
+1415;66;Mya;;23/4/1996
+1416;43;N Sync;;6/6/1995
+1417;9;Nancy Sinatra;;26/4/1993
+1418;21;Nancy Sinatra & Frank Sinatra;;20/8/1987
+1419;57;Nancy Sinatra & Lee Hazlewood;;2/4/1983
+1420;72;NAS;;2/1/1977
+1421;10;Nat King Cole;;9/8/1973
+1422;66;Natalie Cole;;8/9/1994
+1423;58;Natalie Cole & Nat King Cole;;16/9/1993
+1424;11;Natalie Imbruglia;;15/9/1974
+1425;1;Natasha Bedingfield;;4/1/1973
+1426;29;Naughty By Nature;;1/10/1969
+1427;21;Nazareth;;13/10/1983
+1428;21;Ned Miller;;3/10/1989
+1429;32;Neil Diamond;;23/7/1960
+1430;19;Neil Sedaka;;4/6/1980
+1431;5;Neil Young;;14/2/1965
+1432;77;Nelly;;20/2/1979
+1433;79;Nelly & Kelly Rowland;;14/9/1967
+1434;32;Nelly & Tim McGraw;;16/8/1977
+1435;29;Nelly Furtado;;17/11/1975
+1436;28;Nelly Furtado & Timbaland;;18/7/1967
+1437;44;Nelly, P Diddy & Murphy Lee;;5/12/1999
+1438;25;Nelson;;21/7/1999
+1439;38;Nelson Eddy & Jo Stafford;;3/1/1969
+1440;68;Nelson Riddle;;19/6/1971
+1441;18;Nena;;10/1/1984
+1442;62;Neneh Cherry;;5/3/1964
+1443;67;NERD;;25/3/1968
+1444;7;New Edition;;16/2/1985
+1445;79;New Kids On The Block;;23/8/2000
+1446;34;New Order;;15/6/1980
+1447;61;New Vaudeville Band;;26/2/1961
+1448;4;Next;;27/5/1965
+1449;1;Ne-Yo;;1/7/1988
+1450;43;Nick Cave & The Bad Seeds & Kylie Minogue;;10/12/1999
+1451;63;Nick Gilder;;16/4/1976
+1452;48;Nick Kamen;;11/1/1994
+1453;46;Nick Lachey;;7/8/1997
+1454;2;Nick Lucas;;11/4/1981
+1455;4;Nickelback;;7/8/1977
+1456;26;Nicki French;;9/5/1964
+1457;47;Nicki Minaj;;17/6/1998
+1458;45;Nico & Vinz;;4/10/1971
+1459;59;Nicolette Larson;;7/9/1983
+1460;10;Nik Kershaw;;6/8/1975
+1461;75;Nina Simone;;13/2/1992
+1462;9;Nina Sky;;25/11/1974
+1463;33;Nini Rosso;;25/11/1968
+1464;48;Nino Tempo & April Stevens;;14/2/1996
+1465;17;Nirvana;;8/1/1989
+1466;60;Nitty Gritty Dirt Band;;4/7/1964
+1467;58;No Doubt;;9/3/1978
+1468;64;No Mercy;;4/8/1965
+1469;3;Nora Bayes;;21/2/1994
+1470;41;Norah Jones;;26/10/1960
+1471;32;Norman Greenbaum;;20/3/1984
+1472;34;Notorious BIG;;23/11/1963
+1473;74;Notorious BIG & P Diddy;;24/1/1992
+1474;47;N-Trance & Ricardo Da Force;;27/4/1975
+1475;50;Nu Shooz;;26/5/2000
+1476;45;O C Smith;;17/8/2000
+1477;24;Oasis;;27/7/1963
+1478;17;Obernkirchen Children's Choir;;2/4/1981
+1479;22;Ocean;;12/11/1979
+1480;45;Odyssey;;22/12/1994
+1481;75;Of Monsters And Men;;4/3/1961
+1482;15;Offspring;;1/9/1985
+1483;38;Ofra Haza;;17/9/1982
+1484;19;Ohio Express;;12/11/1985
+1485;19;Ohio Players;;27/3/2000
+1486;77;Oliver;;19/5/1998
+1487;36;Olivia Newton-John;;23/7/1970
+1488;37;Olivia Newton-John & Electric Light Orchestra;;3/4/1960
+1489;40;OMC;;1/1/1996
+1490;52;One Direction;;10/5/1977
+1491;31;OneRepublic;;16/11/1965
+1492;46;Opus;;19/2/1995
+1493;35;Oran 'Juice' Jones;;17/8/2000
+1494;17;Orchestral Manoeuvres In The Dark;;3/5/1969
+1495;7;Original Dixieland Jazz Band;;6/5/1978
+1496;21;Otis Redding;;19/1/1960
+1497;58;O-Town;;16/2/1977
+1498;66;Ottawan;;8/3/1981
+1499;67;OutKast;;5/4/1974
+1500;56;Outlandish;;19/8/1981
+1501;3;Owl City;;9/10/1992
+1502;79;Owl City & Carly Rae Jepsen;;24/11/1972
+1503;17;Ozark Mountain Daredevils;;18/4/1960
+1504;67;O-Zone;;17/12/1995
+1505;35;Ozzy Osbourne;;15/2/1977
+1506;76;P Diddy;;16/10/1960
+1507;66;P Diddy & Faith Evans;;17/8/1973
+1508;42;P Diddy & Jimmy Page;;24/7/1968
+1509;26;P Diddy & Mase;;2/12/1984
+1510;55;P Diddy & Nicole Scherzinger;;5/10/1988
+1511;22;P Diddy & R Kelly;;23/10/1992
+1512;9;P Diddy, Usher & Loon;;2/12/1965
+1513;16;Pacific Gas & Electric;;21/5/1975
+1514;76;Panic! At the Disco;;18/6/1968
+1515;75;Panjabi MC;;22/3/1975
+1516;18;Paper Lace;;14/8/1962
+1517;3;Pappa Bear;;24/1/1995
+1518;20;Paramore;;3/10/1994
+1519;12;Paris Hilton;;5/7/1992
+1520;34;Parliament;;26/5/1971
+1521;18;Passenger;;25/7/1974
+1522;39;Pat Benatar;;1/3/1969
+1523;50;Pat Boone;;10/6/1981
+1524;42;Patrick Hernandez;;6/7/1967
+1525;64;Patrick Swayze;;23/5/1986
+1526;40;Patsy Cline;;12/8/1964
+1527;52;Patsy Montana & The Prairie Ramblers;;8/8/1964
+1528;46;Patti Austin & James Ingram;;3/5/1995
+1529;72;Patti LaBelle;;13/10/1978
+1530;38;Patti LaBelle & Michael McDonald;;15/9/1998
+1531;79;Patti Page;;10/7/1968
+1532;43;Patti Smith & Don Henley;;16/2/1979
+1533;44;Patti Smith Group;;15/11/1973
+1534;60;Paul & Paula;;10/11/1968
+1535;80;Paul Anka;;9/11/1985
+1536;22;Paul Hardcastle;;23/3/1992
+1537;19;Paul Mauriat & his Orchestra;;28/3/1970
+1538;22;Paul McCartney;;24/7/1976
+1539;34;Paul McCartney & Michael Jackson;;9/8/1969
+1540;14;Paul McCartney & Stevie Wonder;;24/2/1972
+1541;36;Paul Revere & the Raiders;;21/4/1981
+1542;66;Paul Robeson;;24/9/1990
+1543;37;Paul Simon;;25/8/1999
+1544;49;Paul Weston;;3/10/1983
+1545;31;Paul Whiteman;;16/9/1972
+1546;56;Paul Young;;8/3/1998
+1547;23;Paula Abdul;;19/1/1985
+1548;24;Paula Abdul & The Wild Pair;;21/9/1965
+1549;3;Paula Cole;;19/12/1962
+1550;1;Peabo Bryson & Roberta Flack;;18/4/1989
+1551;61;Peaches & Herb;;27/8/1967
+1552;74;Pearl Jam;;17/6/1963
+1553;57;Pebbles;;20/8/1972
+1554;45;Pee Wee Hunt;;4/4/1973
+1555;17;Pee Wee King;;5/10/2000
+1556;42;Peggy Lee;;6/2/1994
+1557;41;Penny McLean;;26/12/1991
+1558;7;Percy Faith;;10/7/1992
+1559;8;Percy Sledge;;12/2/1998
+1560;56;Perez Prado;;16/12/1968
+1561;78;Perry Como;;28/1/1971
+1562;73;Perry Como & The Fontane Sisters;;27/5/1987
+1563;24;Peter & Gordon;;23/3/1998
+1564;36;Peter Andre;;10/3/1972
+1565;32;Peter Bjorn & John;;25/10/1961
+1566;30;Peter Cetera;;25/12/1989
+1567;21;Peter Cetera & Amy Grant;;17/7/1974
+1568;31;Peter Cetera & Cher;;22/8/1990
+1569;40;Peter Frampton;;27/10/1980
+1570;29;Peter Gabriel;;17/3/1990
+1571;1;Peter Maffay;;22/2/1961
+1572;11;Peter Sarstedt;;19/5/1973
+1573;24;Peter Schilling;;27/11/1992
+1574;29;Peter, Paul & Mary;;28/6/1987
+1575;80;Petula Clark;;16/11/1983
+1576;9;Pharrell Williams;;23/9/1974
+1577;36;Phil Collins;;8/5/1994
+1578;71;Phil Collins & Marilyn Martin;;8/9/1999
+1579;79;Phil Harris;;26/6/1969
+1580;77;Phil Phillips;;4/4/1983
+1581;39;Philip Bailey & Phil Collins;;11/2/1970
+1582;56;Pilot;;11/1/1964
+1583;74;Pinetop Smith;;6/4/1988
+1584;63;Pink;;17/7/1976
+1585;50;Pink & Nate Ruess;;1/7/1997
+1586;55;Pink & William Orbit;;28/4/1979
+1587;78;Pink Floyd;;25/4/1994
+1588;5;Pipkins;;4/12/1976
+1589;66;Pitbull;;6/11/1974
+1590;13;Pitbull & Ke$ha;;24/5/1998
+1591;67;Pitbull, Ne-Yo, Afrojack & Nayer;;17/11/1965
+1592;5;Plain White T's;;1/3/1995
+1593;44;Plastic Bertrand;;12/7/1960
+1594;65;Player;;20/3/1975
+1595;11;PM Dawn;;20/11/1987
+1596;41;POD;;2/7/1987
+1597;23;Poison;;28/9/1963
+1598;36;Pop Tops;;27/3/1968
+1599;65;Poppy Family;;22/2/1969
+1600;20;Power Station;;4/1/1968
+1601;49;Pras Michel;;19/11/1994
+1602;35;Prince;;12/11/1976
+1603;7;Procol Harum;;9/8/1968
+1604;34;Pseudo Echo;;28/12/1985
+1605;42;Psy;;20/3/1977
+1606;61;Puddle of Mudd;;10/9/1991
+1607;80;Pussycat;;3/11/1978
+1608;54;Quad City DJs;;15/8/1985
+1609;1;Quarterflash;;4/9/1994
+1610;55;Queen;;20/11/1998
+1611;67;Queen & David Bowie;;5/6/1988
+1612;4;Queensryche;;15/5/1988
+1613;3;Question Mark & The Mysterians;;26/9/1976
+1614;9;R Kelly;;7/8/1991
+1615;40;Racey;;18/4/1990
+1616;71;Radiohead;;10/8/1977
+1617;41;Ralph Tresvant;;6/1/1989
+1618;58;Ram Jam;;18/3/1986
+1619;66;Ramsey Lewis Trio;;5/5/1966
+1620;22;Randy Newman;;3/10/1985
+1621;43;Randy Vanwarmer;;27/11/2000
+1622;78;Rare Bird;;20/7/1970
+1623;58;Rare Earth;;1/2/1960
+1624;16;Rasmus;;12/10/1991
+1625;75;Ray Anthony;;14/12/1998
+1626;50;Ray Charles;;10/2/1992
+1627;36;Ray Conniff;;21/1/1997
+1628;70;Ray J & Yung Berg;;4/6/1964
+1629;53;Ray Noble;;14/5/1991
+1630;19;Ray Parker Jr;;21/9/1994
+1631;32;Ray Parker Jr & Raydio;;3/3/1978
+1632;50;Ray Peterson;;27/8/1991
+1633;61;Ray Stevens;;22/9/1978
+1634;39;Ray, Goodman & Brown;;21/6/1975
+1635;31;Raydio;;25/6/1960
+1636;47;RB Greaves;;2/6/1981
+1637;69;Real Life;;25/3/1969
+1638;10;Red Foley;;6/12/1995
+1639;56;Red Hot Chili Peppers;;23/7/1965
+1640;16;Redbone;;8/7/1989
+1641;2;Rednex;;9/4/1967
+1642;25;Reel 2 Real;;8/11/1985
+1643;29;Regina Belle & Peabo Bryson;;17/1/1997
+1644;74;REM;;24/12/1972
+1645;40;Renee & Renato;;8/9/1979
+1646;71;REO Speedwagon;;16/2/1970
+1647;36;Rhythm Heritage;;16/6/1999
+1648;15;Richard Harris;;3/1/1978
+1649;72;Richard Marx;;1/12/1987
+1650;75;Richard Sanderson;;9/3/1978
+1651;77;Rick Astley;;24/4/1994
+1652;13;Rick Dees & his Cast of Idiots;;13/7/1966
+1653;50;Rick James;;11/10/1969
+1654;22;Rick Springfield;;23/6/1968
+1655;61;Rickie Lee Jones;;12/11/1988
+1656;44;Ricky Martin;;5/3/1991
+1657;57;Ricky Martin & Christina Aguilera;;12/4/1976
+1658;21;Ricky Nelson;;2/4/1984
+1659;61;Righeira;;17/8/1974
+1660;3;Right Said Fred;;5/1/1975
+1661;40;Rihanna;;18/11/1980
+1662;11;Rihanna & Calvin Harris;;24/4/1980
+1663;2;Rihanna & Jay-Z;;27/2/1995
+1664;71;Rihanna & Mikky Ekko;;11/12/1967
+1665;13;Ringo Starr;;15/1/1979
+1666;23;Rita Coolidge;;20/6/1983
+1667;60;Rita Ora;;10/4/1970
+1668;44;Ritchie Family;;2/3/1992
+1669;74;Ritchie Valens;;1/7/1969
+1670;63;Rob Thomas;;14/2/1984
+1671;80;Rob Thomas & Santana;;11/11/1981
+1672;61;Robbie Nevil;;24/6/1989
+1673;52;Robbie Williams;;14/12/1967
+1674;65;Robbie Williams & Nicole Kidman;;10/9/1984
+1675;20;Robert John;;9/4/1992
+1676;43;Robert Johnson;;3/7/1965
+1677;7;Robert Miles;;23/2/1989
+1678;7;Robert Palmer;;10/5/1961
+1679;24;Robert Palmer & UB40;;22/3/1986
+1680;15;Roberta Flack;;2/2/1990
+1681;43;Roberta Flack & Donny Hathaway;;18/3/1990
+1682;6;Robin Beck;;15/11/1987
+1683;29;Robin Gibb;;19/9/1960
+1684;53;Robin S;;20/11/1973
+1685;41;Robin Thicke, T.I. & Pharrell Williams;;11/3/1987
+1686;26;Robyn;;1/12/1966
+1687;60;Rocco Granata;;13/11/1982
+1688;77;Rockwell;;4/11/1961
+1689;10;Rocky Burnett;;3/12/1998
+1690;58;Rod Stewart;;15/3/1996
+1691;1;Roger Miller;;13/10/1985
+1692;22;Roger Whittaker;;13/4/1973
+1693;51;Roger Williams;;26/6/1974
+1694;9;Ronan Keating;;20/12/1970
+1695;50;Ronnie Hilton;;5/12/1971
+1696;56;Rose Royce;;7/2/1973
+1697;17;Rosemary Clooney;;7/1/2000
+1698;69;Roxette;;20/3/1976
+1699;11;Roxy Music;;1/5/1995
+1700;12;Roy Acuff;;20/10/1976
+1701;54;Roy Orbison;;3/6/1978
+1702;69;Royal Guardsmen;;25/1/1999
+1703;5;Rozalla;;6/10/1986
+1704;53;Ruby & The Romantics;;14/9/1983
+1705;62;Ruby Murray;;9/12/1985
+1706;37;Rudy Vallee & his Connecticut Yankees;;15/10/1964
+1707;74;Rufus Thomas;;3/9/1985
+1708;30;Run DMC & Aerosmith;;11/10/1985
+1709;23;Run DMC & Jason Nevins;;18/11/1983
+1710;47;Rupert Holmes;;27/1/1993
+1711;30;Russ Conway;;28/10/1987
+1712;69;Russ Morgan;;5/9/1995
+1713;67;Ruth Etting;;8/8/1977
+1714;70;Ryan Paris;;4/5/1972
+1715;56;S Club 7;;16/5/1982
+1716;65;Sabrina;;23/6/1969
+1717;10;Sade;;6/1/1978
+1718;36;Sailor;;12/3/1996
+1719;42;Salt-N-Pepa;;1/9/2000
+1720;35;Salt-N-Pepa & En Vogue;;25/6/1971
+1721;34;Salvatore Adamo;;23/6/1974
+1722;40;Sam & Dave;;20/11/1960
+1723;24;Sam Brown;;15/1/1988
+1724;64;Sam Cooke;;15/7/1984
+1725;1;Sam Smith;;28/9/1966
+1726;80;Sam The Sham & The Pharaohs;;2/4/1979
+1727;5;Samantha Fox;;20/9/1997
+1728;19;Samantha Mumba;;1/5/1969
+1729;6;Samantha Sang;;16/12/1972
+1730;14;Sammy Davis Jr;;2/12/1976
+1731;33;Sammy Kaye;;3/3/1989
+1732;71;Sandi Thom;;20/4/1968
+1733;74;Sandie Shaw;;26/3/1988
+1734;15;Sandra;;4/12/2000
+1735;36;Sandy Nelson;;18/4/1974
+1736;37;Santa Esmerelda;;14/7/1975
+1737;74;Santana;;3/8/1983
+1738;5;Santana & Michelle Branch;;23/9/1970
+1739;28;Santo & Johnny;;20/8/1974
+1740;39;Sara Bareilles;;11/10/1985
+1741;79;Sarah Brightman & Andrea Bocelli;;21/12/1975
+1742;44;Sarah McLachlan;;18/2/1966
+1743;68;Sash!;;16/6/1976
+1744;66;Savage Garden;;21/1/1992
+1745;14;Scatman John;;22/9/1995
+1746;76;Scooter;;27/7/1975
+1747;27;Scott McKenzie;;23/2/1981
+1748;49;Seal;;5/8/1996
+1749;63;Seals & Crofts;;24/1/1984
+1750;13;Sean Kingston;;25/7/1973
+1751;37;Sean Paul;;23/2/1971
+1752;23;Seduction;;2/11/1980
+1753;59;Seether & Amy Lee;;8/7/1964
+1754;10;September;;7/8/2000
+1755;33;Sergio Mendes & The Black Eyed Peas;;9/6/1974
+1756;50;S-Express;;20/1/1994
+1757;67;Shaggy;;11/10/1974
+1758;43;Shaggy & Ricardo 'RikRok' Ducent;;1/12/1973
+1759;32;Shai;;12/5/1978
+1760;78;Shakespear's Sister;;6/6/1995
+1761;27;Shakin' Stevens;;27/5/1979
+1762;53;Shakira;;23/12/1970
+1763;5;Shakira & Freshly Ground;;21/1/1996
+1764;33;Shakira & Wyclef Jean;;13/8/1990
+1765;31;Shalamar;;26/5/1985
+1766;29;Shamen;;13/10/1993
+1767;44;Shania Twain;;19/7/1990
+1768;28;Shanice;;3/6/1975
+1769;33;Shannon;;4/2/1963
+1770;39;Shaun Cassidy;;14/5/1970
+1771;22;Shawn Colvin;;19/9/1997
+1772;11;Shawn Mullins;;25/11/1980
+1773;54;Sheb Wooley;;16/8/1993
+1774;67;Sheena Easton;;6/10/1977
+1775;33;Sheila E;;11/2/1993
+1776;55;Shelley Fabares;;27/3/1979
+1777;60;Shep & the Limelites;;9/12/1987
+1778;40;Shep Fields & his Rippling Rhythm Orchestra;;17/2/1980
+1779;58;Sherbet;;28/4/1988
+1780;66;Sheryl Crow;;20/2/1991
+1781;16;Shirley & Company;;3/4/1964
+1782;73;Shirley Bassey;;4/7/1972
+1783;42;Shirley Temple;;20/2/1989
+1784;10;Shocking Blue;;20/4/2000
+1785;61;Shontelle;;13/12/1982
+1786;62;Showaddywaddy;;5/10/1975
+1787;60;Silk;;3/1/1989
+1788;15;Silvana Mangano;;14/2/1983
+1789;54;Silver Convention;;6/2/1981
+1790;28;Simon & Garfunkel;;11/10/1979
+1791;21;Simple Minds;;20/11/1994
+1792;2;Simple Plan;;19/5/1971
+1793;44;Simply Red;;7/12/1963
+1794;23;Sinead O'Connor;;4/10/1986
+1795;47;Singing Nun (Soeur Sourire);;15/11/1980
+1796;71;Sir Douglas Quintet;;11/10/2000
+1797;10;Sir Mix-a-Lot;;28/9/1984
+1798;68;Sisqo;;24/6/1994
+1799;24;Sister Sledge;;13/5/1967
+1800;4;Sixpence None The Richer;;13/10/1981
+1801;64;Skee-Lo;;1/7/1967
+1802;71;Skeeter Davis;;22/2/1994
+1803;16;Skid Row;;23/2/1993
+1804;38;Skyliners;;26/10/1981
+1805;4;Slade;;1/7/1974
+1806;68;Slim Whitman;;21/1/2000
+1807;36;Sly & The Family Stone;;8/11/1961
+1808;79;Sly Fox;;18/12/1974
+1809;36;Smash Mouth;;7/1/1984
+1810;19;Smokey Robinson;;9/7/1999
+1811;77;Smokey Robinson & The Miracles;;20/5/1983
+1812;69;Smokie;;11/4/1971
+1813;43;Snap;;1/3/1988
+1814;4;Sniff & The Tears;;5/10/1988
+1815;72;Snoop Dogg;;14/5/1966
+1816;74;Snoop Dogg & Charlie Wilson & Justin Timberlake;;22/12/1979
+1817;27;Snoop Dogg & Pharrell Williams;;24/2/1974
+1818;12;Snoop Dogg & Wiz Khalifa & Bruno Mars;;2/11/1979
+1819;3;Snow;;17/7/1980
+1820;63;Snow Patrol;;9/12/1975
+1821;54;Soft Cell;;2/12/1966
+1822;46;Sonique;;13/6/1983
+1823;52;Sonny & Cher;;27/11/1996
+1824;75;Sonny James;;12/12/1989
+1825;40;Sophie B Hawkins;;16/1/1985
+1826;55;Sophie Ellis-Bextor;;27/4/1967
+1827;36;Sophie Tucker;;28/6/1998
+1828;24;SOS Band;;7/1/1967
+1829;16;Soul Asylum;;24/5/1983
+1830;15;Soul For Real;;24/3/1969
+1831;65;Soul II Soul;;27/7/1998
+1832;61;Soul II Soul & Caron Wheeler;;16/3/1987
+1833;15;Soulful Dynamics;;28/8/1968
+1834;75;Soulja Boy;;22/12/1981
+1835;4;Soundgarden;;16/7/1995
+1836;16;Sousa's Band;;3/5/1965
+1837;28;Space;;18/5/1973
+1838;63;Spandau Ballet;;22/9/1989
+1839;53;Spencer Davis Group;;4/10/1960
+1840;58;Spice Girls;;26/10/1967
+1841;34;Spike Jones;;5/2/1977
+1842;19;Spiller & Sophie Ellis-Bextor;;25/12/1964
+1843;9;Split Enz;;6/3/1999
+1844;77;Stacey Q;;23/1/1993
+1845;29;Stacie Orrico;;22/7/1998
+1846;22;Staff Sergeant Barry Sadler;;11/6/1986
+1847;27;Staind;;19/6/1994
+1848;24;Stan Freberg;;2/7/1979
+1849;41;Stan Getz & Charlie Byrd;;17/1/1999
+1850;46;Stan Getz & Joao Gilberto;;18/11/1973
+1851;30;Stan Kenton;;15/3/1987
+1852;73;Stardust;;17/9/1982
+1853;61;Starland Vocal Band;;16/5/1971
+1854;71;Starsound;;17/7/1994
+1855;73;Status Quo;;25/4/1995
+1856;69;Stealer's Wheel;;14/10/1992
+1857;6;Steam;;5/1/1961
+1858;29;Steely Dan;;25/4/1992
+1859;14;Stephanie Mills;;15/2/1981
+1860;80;Steppenwolf;;23/2/1969
+1861;41;Steve Harley & Cockney Rebel;;20/4/1977
+1862;15;Steve Lawrence;;24/1/1998
+1863;11;Steve Miller Band;;8/2/1961
+1864;48;Steve Perry;;7/3/1989
+1865;49;Steve Winwood;;19/9/1995
+1866;64;Stevie B;;14/2/1983
+1867;37;Stevie Nicks & Tom Petty;;13/4/1968
+1868;20;Stevie Wonder;;16/11/1974
+1869;80;Stevie Wonder & The Jackson 5;;25/6/1991
+1870;43;Sting;;15/5/1984
+1871;6;Sting & Cheb Mami;;11/10/1988
+1872;79;Stonewall Jackson;;3/10/1993
+1873;66;Stories;;23/8/1993
+1874;33;Strawberry Alarm Clock;;8/2/1965
+1875;51;String-A-Longs;;22/2/1975
+1876;15;Styx;;22/5/1972
+1877;75;Sue Thompson;;16/6/1981
+1878;48;Suede;;26/6/1991
+1879;13;Sugar Ray;;1/7/1974
+1880;75;Sugar Ray & Supercat;;16/8/1972
+1881;42;Sugarhill Gang;;6/2/1979
+1882;35;Sugarloaf;;8/9/1987
+1883;7;Supertramp;;14/9/1999
+1884;47;Surface;;2/5/1989
+1885;27;Survivor;;7/5/1960
+1886;8;Sutherland Brothers & Quiver;;17/8/1998
+1887;8;Suzanne Vega;;12/12/1966
+1888;52;Suzi Quatro;;11/10/1981
+1889;62;Sweet Sensation;;2/7/1968
+1890;30;Sweetbox;;21/8/1991
+1891;37;Swing Out Sister;;1/1/1987
+1892;13;Swinging Blue Jeans;;12/7/1963
+1893;59;SWV;;17/3/1999
+1894;17;Sylvers;;20/7/1979
+1895;78;Sylvester;;7/2/1992
+1896;5;Sylvia Vanderpool;;9/8/1994
+1897;70;T Rex;;23/7/1974
+1898;65;t.A.T.u.;;15/1/1967
+1899;16;T.I.;;22/2/1978
+1900;61;T.I. & Justin Timberlake;;19/12/1997
+1901;42;T.I. & Rihanna;;19/5/1964
+1902;10;Tab Hunter;;13/9/1990
+1903;52;Taco;;28/7/1971
+1904;75;Tag Team;;27/7/1981
+1905;30;Taio Cruz;;16/9/1965
+1906;1;Taio Cruz & Ludacris;;22/3/1976
+1907;57;Take That;;4/2/2000
+1908;64;Talking Heads;;4/8/1985
+1909;39;Tammy Wynette;;2/12/1977
+1910;75;Tasmin Archer;;25/3/1971
+1911;79;Tavares;;6/3/1961
+1912;16;Taylor Dayne;;3/6/1962
+1913;22;Taylor Swift;;21/10/1962
+1914;14;T-Bone Walker Quintet;;6/8/1975
+1915;39;Teach-In;;10/12/1987
+1916;13;Tears For Fears;;22/11/2000
+1917;78;Technohead;;17/5/1987
+1918;15;Technotronic;;11/11/1997
+1919;49;Ted Lewis & his Orchestra;;24/11/1972
+1920;73;Ted Weems;;11/1/1991
+1921;73;Tee Set;;7/8/1983
+1922;6;Ten Sharp;;12/3/1992
+1923;38;Tennessee Ernie Ford;;5/10/1975
+1924;29;Terence Trent D'Arby;;17/12/1966
+1925;67;Teresa Brewer;;21/11/1967
+1926;28;Terror Squad;;24/2/2000
+1927;64;Terry Jacks;;26/6/1975
+1928;44;Terry Stafford;;11/12/1986
+1929;24;Tevin Campbell;;19/4/1977
+1930;69;Tex Williams & The Western Caravan;;19/5/1991
+1931;43;Texas;;24/12/1978
+1932;73;The Alan Parsons Project;;14/2/1988
+1933;18;The Allisons;;11/9/1975
+1934;68;The Allman Brothers Band;;8/7/1996
+1935;23;The Ames Brothers;;11/2/1962
+1936;58;The Andrews Sisters;;21/6/1990
+1937;62;The Angels;;2/10/1984
+1938;55;The Animals;;3/8/1974
+1939;43;The B52s;;25/7/1983
+1940;22;The Backstreet Boys;;8/6/1994
+1941;66;The Bangles;;16/11/1978
+1942;9;The Bay City Rollers;;22/11/1987
+1943;24;The Beach Boys;;5/9/1986
+1944;1;The Beastie Boys;;3/3/1972
+1945;17;The Beatles;;24/9/1982
+1946;73;The Black Eyed Peas;;21/8/1989
+1947;53;The Boomtown Rats;;23/11/1992
+1948;42;The Box Tops;;22/4/1960
+1949;45;The Browns;;14/11/1964
+1950;65;The Buckinghams;;17/3/1976
+1951;46;The Byrds;;19/5/1972
+1952;29;The Caesars;;16/10/1970
+1953;15;The Calling;;18/10/1996
+1954;20;The Cardigans;;21/4/1971
+1955;14;The Carpenters;;12/12/1984
+1956;73;The Cars;;23/8/1988
+1957;53;The Carter Family;;23/8/1971
+1958;34;The Chemical Brothers;;9/11/1991
+1959;51;The Chiffons;;5/3/1985
+1960;66;The Chi-Lites;;7/2/1994
+1961;35;The Chordettes;;4/3/1968
+1962;18;The Clash;;2/10/1965
+1963;77;The Coasters;;22/8/1961
+1964;5;The Commodores;;1/11/1977
+1965;33;The Communards;;14/12/1985
+1966;7;The Corrs;;18/1/1978
+1967;73;The Cowsills;;4/1/1994
+1968;75;The Cranberries;;2/9/1961
+1969;29;The Crew-Cuts;;22/10/1994
+1970;69;The Crystals;;25/12/1972
+1971;58;The Cure;;5/3/1966
+1972;79;The Darkness;;2/6/1968
+1973;14;The Del Vikings;;22/9/1974
+1974;34;The Delfonics;;15/1/1962
+1975;56;The Detroit Spinners;;3/4/1997
+1976;28;The Diamonds;;28/11/2000
+1977;31;The Dixie Chicks;;24/2/1994
+1978;33;The Doobie Brothers;;23/7/1964
+1979;70;The Doors;;27/12/1993
+1980;25;The Dovells;;6/7/1990
+1981;69;The Drifters;;8/1/1986
+1982;7;The Easybeats;;26/10/1999
+1983;65;The Emotions;;24/5/1964
+1984;58;The Equals;;9/6/1993
+1985;6;The Escape Club;;5/1/1988
+1986;56;The Eurythmics;;4/4/1975
+1987;11;The Everly Brothers;;12/7/1978
+1988;13;The Fireballs;;6/5/1962
+1989;64;The Flamingos;;17/6/1989
+1990;78;The Fleetwoods;;23/11/1988
+1991;6;The Floaters;;19/10/1982
+1992;60;The Flying Pickets;;17/2/1963
+1993;62;The Fontane Sisters;;3/2/1994
+1994;31;The Foo Fighters;;13/3/1997
+1995;25;The Fortunes;;6/6/1989
+1996;10;The Foundations;;22/3/1976
+1997;75;The Four Knights;;10/6/1994
+1998;54;The Four Seasons;;26/3/1982
+1999;1;The Four Tops;;17/2/1962
+2000;35;The Fray;;27/7/1993
+2001;59;The Fugees;;28/1/1970
+2002;78;The Game & 50 Cent;;22/12/1993
+2003;22;The Gaylords;;7/3/2000
+2004;27;The Go Gos;;25/10/1990
+2005;34;The Goo Goo Dolls;;1/1/1982
+2006;35;The Heights;;3/7/1973
+2007;57;The Hollies;;6/1/1978
+2008;32;The Honeycombs;;2/7/1983
+2009;69;The Honeydrippers;;11/9/1966
+2010;79;The Housemartins;;15/4/1979
+2011;40;The Human League;;26/3/1995
+2012;72;The Imperials;;11/4/1978
+2013;8;The Ink Spots;;25/9/1987
+2014;47;The Isley Brothers;;2/5/1980
+2015;1;The Jackson 5;;18/11/1988
+2016;61;The Jackson 5, Mick Jagger & Michael Jackson;;9/9/1972
+2017;48;The Jam;;4/2/2000
+2018;12;The Jaynettes;;13/2/1966
+2019;25;The Kaiser Chiefs;;9/10/1966
+2020;15;The Kalin Twins;;15/10/1981
+2021;79;The Killers;;7/6/1999
+2022;53;The Kingston Trio;;18/12/1987
+2023;32;The Kinks;;23/8/1977
+2024;64;The Knack;;5/7/1963
+2025;74;The Korgis;;19/11/1984
+2026;1;The Left Banke;;21/2/1970
+2027;55;The Lemon Pipers;;28/4/1977
+2028;21;The Lighthouse Family;;6/7/1993
+2029;19;The Mamas & The Papas;;6/5/1984
+2030;64;The Manhattans;;20/4/1983
+2031;78;The Manic Street Preachers;;16/9/2000
+2032;11;The Marbles;;3/9/1967
+2033;19;The Marcels;;25/1/1988
+2034;60;The Marvelettes;;7/9/1979
+2035;56;The McCoys;;9/6/1963
+2036;31;The Mills Brothers;;10/11/1987
+2037;53;The Mindbenders;;26/10/1970
+2038;30;The Miracles;;7/11/1995
+2039;56;The Mixtures;;6/7/1993
+2040;55;The Monkees;;27/3/1997
+2041;62;The Moody Blues;;2/9/1991
+2042;40;The Music Explosion;;10/3/1980
+2043;64;The New Radicals;;12/6/1975
+2044;1;The New Seekers;;11/2/1987
+2045;22;The Newbeats;;18/6/1991
+2046;61;The Notorious BIG, P Diddy, Nelly, Jagged Edge & Avery Storm;;11/5/1997
+2047;61;The O'Jays;;19/2/1982
+2048;48;The Orioles;;5/12/2000
+2049;1;The Orlons;;15/12/1989
+2050;9;The Osmonds;;19/6/1979
+2051;28;The Outhere Brothers;;9/11/1966
+2052;41;The Partridge Family;;7/9/1999
+2053;42;The Penguins;;17/12/1987
+2054;1;The Pet Shop Boys;;19/4/1998
+2055;33;The Pied Pipers;;20/9/1975
+2056;72;The Platters;;26/8/1995
+2057;43;The Pointer Sisters;;7/7/1994
+2058;48;The Police;;16/6/1986
+2059;4;The Pretenders;;27/8/1969
+2060;79;The Proclaimers;;7/11/1967
+2061;31;The Prodigy;;12/6/1976
+2062;5;The Pussycat Dolls;;18/10/1984
+2063;7;The Pussycat Dolls & Will.I.Am;;10/11/1975
+2064;61;The Rays;;14/12/1993
+2065;55;The Real Thing;;19/6/1989
+2066;44;The Rembrandts;;21/10/1990
+2067;12;The Righteous Brothers;;6/12/1993
+2068;59;The Rolling Stones;;3/8/1998
+2069;71;The Romantics;;14/5/1966
+2070;39;The Ronettes;;6/1/1998
+2071;47;The Rooftop Singers;;12/8/1977
+2072;37;The Royal Philharmonic Orchestra;;3/1/1999
+2073;36;The Royal Scots Dragoon Guards;;3/5/1961
+2074;43;The Rubettes;;19/9/1987
+2075;56;The Sandpipers;;25/3/1975
+2076;57;The Scaffold;;17/5/1983
+2077;61;The Scissor Sisters;;6/6/1988
+2078;56;The Scorpions;;3/10/1999
+2079;26;The Script;;26/10/1996
+2080;3;The Script & will.i.am;;5/2/1962
+2081;6;The Searchers;;17/8/1977
+2082;74;The Seekers;;2/11/1995
+2083;35;The Sex Pistols;;13/3/1982
+2084;44;The Shadows;;27/6/2000
+2085;75;The Shangri-Las;;1/12/1972
+2086;63;The Shirelles;;14/8/1981
+2087;37;The Silhouettes;;7/4/1997
+2088;40;The Simpsons;;15/9/1974
+2089;73;The Small Faces;;3/9/1985
+2090;7;The Smashing Pumpkins;;22/1/1995
+2091;47;The Smurfs;;25/9/1995
+2092;63;The Song Spinners;;4/11/1986
+2093;29;The Sons of the Pioneers;;14/12/1979
+2094;21;The Specials;;5/5/2000
+2095;69;The Spin Doctors;;10/5/1961
+2096;63;The Staple Singers;;14/2/1985
+2097;11;The Stray Cats;;28/6/1996
+2098;4;The Streets;;21/10/1976
+2099;35;The Stylistics;;26/9/1971
+2100;78;The Sugababes;;2/9/1963
+2101;72;The Supremes;;25/1/1962
+2102;78;The Surfaris;;27/1/1967
+2103;11;The Sweet;;27/10/1973
+2104;33;The Teddy Bears;;5/1/1981
+2105;34;The Temptations;;6/1/1983
+2106;11;The Thompson Twins;;14/2/1984
+2107;80;The Three Degrees;;14/8/1978
+2108;61;The Ting Tings;;28/12/1962
+2109;24;The Tokens;;1/6/1983
+2110;48;The Tornados;;3/3/1993
+2111;22;The Toys;;5/11/1970
+2112;1;The Trammps;;10/4/1973
+2113;13;The Tremeloes;;5/1/1974
+2114;68;The Troggs;;24/10/2000
+2115;25;The Turtles;;8/11/1966
+2116;16;The Tymes;;15/6/1979
+2117;33;The Undisputed Truth;;20/5/1972
+2118;42;The Vapors;;18/1/1962
+2119;40;The Vengaboys;;4/9/1987
+2120;55;The Ventures;;12/7/1976
+2121;43;The Veronicas;;4/8/1960
+2122;23;The Verve;;8/2/1969
+2123;62;The Village People;;5/3/1990
+2124;42;The Walker Brothers;;11/3/1981
+2125;46;The Wallflowers;;12/8/1976
+2126;5;The Wanted;;5/8/1986
+2127;76;The Weather Girls;;18/9/1999
+2128;34;The Weavers;;28/3/1983
+2129;45;The Whispers;;21/3/1995
+2130;25;The White Stripes;;23/7/1969
+2131;45;The Who;;23/7/1981
+2132;7;The Yardbirds;;17/2/1999
+2133;46;The Young Rascals;;10/3/1975
+2134;41;The Zombies;;20/12/1997
+2135;66;Thelma Houston;;5/5/1980
+2136;38;Thin Lizzy;;24/11/1993
+2137;76;Third Eye Blind;;19/6/1989
+2138;44;Thomas Dolby;;6/4/1984
+2139;26;Three Dog Night;;6/2/1976
+2140;28;Three Doors Down;;24/12/1970
+2141;51;Tiffany;;19/5/1963
+2142;25;Tight Fit;;11/7/1965
+2143;26;Timbaland & Katy Perry;;17/5/1992
+2144;45;Timbaland & Keri Hilson;;4/8/1991
+2145;36;Timbaland & Nelly Furtado & Justin Timberlake;;17/5/1989
+2146;14;Timbaland & OneRepublic;;16/9/1991
+2147;68;Timex Social Club;;8/3/1966
+2148;41;Timi Yuro;;9/10/1960
+2149;19;Timmy T;;11/11/1970
+2150;38;Timmy Thomas;;17/2/1988
+2151;49;Tina Arena;;20/7/1972
+2152;76;Tina Charles;;24/5/1960
+2153;47;Tina Turner;;26/11/1997
+2154;2;Tinie Tempah & Eric Turner;;9/11/1983
+2155;34;Tiziano Ferro;;22/1/1964
+2156;15;TLC;;17/9/1991
+2157;28;Todd Rundgren;;28/12/1997
+2158;74;Tom Cochrane;;27/12/1983
+2159;7;Tom Jones;;8/4/1994
+2160;14;Tom Jones & Art of Noise;;12/2/1983
+2161;15;Tom Jones & Mousse T;;2/2/1993
+2162;71;Tom Petty & The Heartbreakers;;6/5/1976
+2163;71;Tommy Dorsey;;11/11/1994
+2164;9;Tommy Dorsey & Frank Sinatra;;8/7/1977
+2165;5;Tommy Edwards;;17/3/1962
+2166;19;Tommy James & the Shondells;;10/2/1966
+2167;29;Tommy Page;;27/1/1985
+2168;76;Tommy Roe;;21/11/1990
+2169;62;Tommy Steele;;3/7/1969
+2170;6;Tone Loc;;18/9/1971
+2171;65;Toni Basil;;1/7/1972
+2172;7;Toni Braxton;;22/1/1966
+2173;52;Tony Bennett;;5/9/1971
+2174;59;Tony Christie;;4/3/1981
+2175;8;Tony Martin;;18/1/1995
+2176;46;Tony Orlando & Dawn;;1/7/1979
+2177;29;Tony Rich Project;;15/9/1998
+2178;50;Tony! Toni! Tone!;;7/1/1982
+2179;42;Tori Amos;;22/5/1999
+2180;23;Toto;;23/4/2000
+2181;71;T-Pain;;28/7/1978
+2182;80;T'Pau;;27/8/1969
+2183;67;Tracey Ullman;;16/8/1989
+2184;4;Tracy Chapman;;9/2/1971
+2185;73;Train;;10/7/1989
+2186;69;Travie McCoy & Bruno Mars;;20/3/1989
+2187;51;Travis;;1/7/1980
+2188;31;Trini Lopez;;8/8/1985
+2189;78;Trio;;28/8/1967
+2190;37;Truth Hurts;;27/7/1994
+2191;4;Twista;;5/11/1988
+2192;8;Typically Tropical;;12/2/1986
+2193;43;U2;;9/8/1995
+2194;16;U2 & Green Day;;14/10/1967
+2195;46;UB40;;3/9/1980
+2196;33;UB40 & Chrissie Hynde;;18/9/1984
+2197;34;Ugly Kid Joe;;6/2/1973
+2198;3;Ultra Nate;;8/5/1981
+2199;16;Ultravox;;23/6/1984
+2200;28;Umberto Tozzi;;1/8/1965
+2201;13;Uncle Kracker;;2/6/1988
+2202;13;Underworld;;11/4/1991
+2203;50;US3;;5/10/2000
+2204;58;USA For Africa;;25/1/1975
+2205;20;Usher;;3/8/1984
+2206;36;Usher & Alicia Keys;;18/6/1994
+2207;69;Usher & Pitbull;;19/10/1993
+2208;9;Usher & will.i.am;;20/1/1980
+2209;3;Usher & Young Jeezy;;12/8/1980
+2210;66;Van & Schenck;;6/9/1977
+2211;67;Van Halen;;1/5/1982
+2212;38;Van McCoy;;10/12/1998
+2213;80;Van Morrison;;17/1/1989
+2214;68;Vanessa Carlton;;21/8/1986
+2215;79;Vanessa Williams;;3/2/1985
+2216;67;Vangelis;;9/5/1997
+2217;33;Vanilla Ice;;8/4/1980
+2218;3;Various Artists;;8/10/1978
+2219;77;Vaughn Monroe;;6/11/1982
+2220;21;Vera Lynn;;11/3/1980
+2221;17;Vernon Dalhart;;7/9/1980
+2222;58;Vertical Horizon;;13/2/1993
+2223;23;Vic Damone;;14/5/1975
+2224;52;Vicki Lawrence;;18/11/1990
+2225;21;Vicki Sue Robinson;;22/7/1975
+2226;51;Vicky Leandros;;11/1/1985
+2227;57;Vikki Carr;;25/9/1998
+2228;64;Visage;;25/7/1986
+2229;1;Waldo De Los Rios;;9/9/1987
+2230;21;Walter Murphy & The Big Apple Band;;24/3/2000
+2231;45;Wang Chung;;5/10/1998
+2232;28;War;;18/3/1996
+2233;25;Warrant;;1/6/1994
+2234;30;Warren G;;16/1/1994
+2235;41;Warren G & Adina Howard;;15/2/1999
+2236;6;Warren G & Nate Dogg;;28/11/1976
+2237;57;Wayne Fontana & The Mindbenders;;6/6/1992
+2238;31;Wayne King;;13/9/1963
+2239;33;Wayne Newton;;22/10/1961
+2240;28;Wayne Wonder;;25/2/1997
+2241;68;Weezer;;20/11/1981
+2242;62;Wes;;28/3/1967
+2243;70;Westlife;;19/4/1984
+2244;5;Wet Wet Wet;;19/5/1971
+2245;37;Wham!;;16/4/1963
+2246;43;Wheatus;;22/1/1992
+2247;64;Whigfield;;18/5/1998
+2248;33;Whistling Jack Smith;;10/3/1962
+2249;63;White Plains;;13/6/1977
+2250;11;White Town;;4/10/1991
+2251;30;Whitesnake;;10/3/1994
+2252;62;Whitney Houston;;19/10/1975
+2253;24;Whitney Houston & Enrique Iglesias;;26/12/1985
+2254;37;Whitney Houston & Faith Evans & Kelly Price;;2/7/1970
+2255;9;Wilbert Harrison;;22/12/2000
+2256;48;Wild Cherry;;15/12/1962
+2257;71;Will Glahe & his Orchestra;;11/12/1995
+2258;78;Will Smith;;6/9/1985
+2259;75;Will To Power;;1/2/1990
+2260;7;will.i.am & Britney Spears;;19/6/1969
+2261;55;Willie Nelson;;4/4/1995
+2262;51;Wilson Phillips;;26/3/1992
+2263;19;Wilson Pickett;;6/11/1983
+2264;44;Wings;;5/12/1977
+2265;60;Wiz Khalifa;;8/1/1964
+2266;56;Wizzard;;7/9/1960
+2267;2;Womack & Womack;;21/4/1996
+2268;71;Woody Guthrie;;27/4/1998
+2269;70;Woody Herman;;16/11/1968
+2270;55;Wreckx-N-Effect;;27/5/1992
+2271;48;Wyclef Jean & Akon & Lil' Wayne;;11/3/1975
+2272;22;Wyclef Jean & Claudette Ortiz;;19/2/1972
+2273;38;Wynonie Harris;;16/2/1960
+2274;39;Xavier Cugat;;16/6/1988
+2275;24;Xscape;;17/3/1961
+2276;35;Yazoo;;5/10/1999
+2277;28;Yazz & The Plastic Population;;19/1/1985
+2278;33;Yello;;8/5/1983
+2279;5;Yes;;14/4/1999
+2280;58;Yolanda Be Cool & DCup;;13/8/1989
+2281;12;Young MC;;19/10/1976
+2282;61;Youngbloods;;24/5/1971
+2283;16;Youssou N'Dour & Neneh Cherry;;20/11/1983
+2284;54;Yvonne Elliman;;13/7/1986
+2285;9;Zager & Evans;;26/9/1973
+2286;9;Zhane;;6/8/1971
+2287;47;Zucchero Fornaciari & Paul Young;;17/3/1983
+2288;39;ZZ Top;;20/12/1968
